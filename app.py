@@ -2,16 +2,44 @@ import random
 worlds = [
         {
             "name": "e100",
-            "atrtributos": "lithe",
-            "damage":"390",
-            "speed":"fast"
+            "atrtributos": "Heavy",
+            "damage":"520",
+            "speed":"Slow"
             
         },
         {
             "name":"manticora",
-            "atrtributos": "lithe",
+            "atrtributos": "Light",
             "damage":"390",
             "speed":"fast"
+        },
+        {
+            "name": "Maus",
+            "atrtributos": "Heavy",
+            "damage":"520",
+            "speed":"Slow"
+            
+        },
+        {
+            "name": "Ebr",
+            "atrtributos": "Light",
+            "damage":"390",
+            "speed":"super fast"
+            
+        },
+        {
+            "name": "Is-7",
+            "atrtributos": "Heavy",
+            "damage":"490",
+            "speed":"medium"
+            
+        },
+        {
+            "name": "T-100lt",
+            "atrtributos": "LIght",
+            "damage":"320",
+            "speed":"fast"
+            
         }
 ]
 nummber = random.randrange(len(worlds))
@@ -26,7 +54,7 @@ def atrtributos_gue(name_guess):
 
 
 
-atrtributos_gue = probar(name_guess)
+atrtributos_guess = atrtributos_gue(name_guess)
 print(atrtributos_guess)
 
 
