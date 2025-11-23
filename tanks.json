@@ -1,0 +1,49 @@
+[
+        {
+            "name": "E100",
+            "Class": "Heavy",
+            "damage":"520",
+            "speed":"slow",
+            "nacio":"germany"
+            
+        },
+        {
+            "name":"manticora",
+            "Class": "Light",
+            "damage":"390",
+            "speed":"fast",
+            "nacio":"UK"
+        },
+        {
+            "name": "Maus",
+            "Class": "Heavy",
+            "damage":"520",
+            "speed":"slow",
+            "nacio":"germany"
+            
+        },
+        {
+            "name": "Ebr",
+            "Class": "Light",
+            "damage":"390",
+            "speed":"superfast",
+            "nacio":"france"
+            
+        },
+        {
+            "name": "Is-7",
+            "Class": "Heavy",
+            "damage":"490",
+            "speed":"medium",
+            "nacio":"ussr"
+            
+        },
+        {
+            "name": "T-100lt",
+            "Class": "Light",
+            "damage":"320",
+            "speed":"fast",
+            "nacio":"ussr"
+            
+        }
+]
