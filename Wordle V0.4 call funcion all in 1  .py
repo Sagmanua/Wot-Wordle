@@ -77,11 +77,8 @@ def get_attr(name_guess, attr):
             return world.get(attr)  # безопасно вернёт None если атрибута нет
     return None
 
-damage = get_attr("e100", "damage")
-speed = get_attr("Tiger", "speed")
-armor = get_attr("Tiger", "armor")
 
-print(damage)
+
 
 
 
@@ -100,11 +97,13 @@ while True:
     else:
         print("Write again")
         pass
-
+    
     # check is user write all write
     tryes = tryes + 1 
     print("This is your",tryes,"try")
 
+    ### Check for atibutos that have chosen tank of user 
+     
 
     # Is a guess or not 
     if name_guess != tank_of_guess:
