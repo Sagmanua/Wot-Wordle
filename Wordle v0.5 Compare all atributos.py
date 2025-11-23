@@ -96,8 +96,8 @@ speed_random_tank = get_attr_of_random_tank(tank_of_guess, "speed")
 class_random_tank = get_attr_of_random_tank(tank_of_guess, "Class")
 print(damage_random_tank,speed_random_tank,class_random_tank)
 
-#--------------------Check atributos 
-### Check bu damage
+#--------------------Compare atributos 
+### Compare bu damage
 def Check_atributos_damage (damage_random_tank,damage_guess):
     if damage_random_tank == damage_guess:
         return("Damage the same")
@@ -105,13 +105,13 @@ def Check_atributos_damage (damage_random_tank,damage_guess):
         return("Damage is lower")
     else:
         return("Damage is bigger")
-### Check by class
+### Compare by class
 def Check_atributos_class (class_random_tank,class_guess):
     if class_guess == class_random_tank:
         return ("This is",class_guess)
     else:
         return("This is not",class_guess)
-###Chaeck speed
+###Compare speed
 def Check_atributos_Speed(speed_random_tank, speed_guess):
     s1 = speed_rank[speed_random_tank.lower()]
     s2 = speed_rank[speed_guess.lower()]
@@ -158,6 +158,7 @@ while True:
     print("Speed of tank that you guess",speed_guess)
     print("Speed of tank that you guess",class_guess)
 
+    # Compare random tank and that user chose
     print(Check_atributos_damage(damage_guess,damage_random_tank))
     print(Check_atributos_class(class_guess,class_random_tank))
     print(Check_atributos_Speed(speed_guess,speed_random_tank))
