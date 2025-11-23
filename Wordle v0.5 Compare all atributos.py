@@ -82,13 +82,13 @@ def show_all_names ():
 def get_attr(name_guess, attr):
     for world in worlds:
         if world["name"] == name_guess:
-            return world.get(attr)  # безопасно вернёт None если атрибута нет
+            return world.get(attr)  
     return None
 
 def get_attr_of_random_tank(tank_of_guess, attr):
     for world in worlds:
         if world["name"] == tank_of_guess:
-            return world.get(attr)  # безопасно вернёт None если атрибута нет
+            return world.get(attr)  
     return None
 
 damage_random_tank = get_attr_of_random_tank(tank_of_guess, "damage")
