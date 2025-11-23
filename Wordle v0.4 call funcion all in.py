@@ -2,41 +2,41 @@ import random
 worlds = [
         {
             "name": "e100",
-            "atrtributos": "Heavy",
+            "Class": "Heavy",
             "damage":"520",
             "speed":"Slow"
             
         },
         {
             "name":"manticora",
-            "atrtributos": "Light",
+            "Class": "Light",
             "damage":"390",
             "speed":"fast"
         },
         {
             "name": "Maus",
-            "atrtributos": "Heavy",
+            "Class": "Heavy",
             "damage":"520",
             "speed":"Slow"
             
         },
         {
             "name": "Ebr",
-            "atrtributos": "Light",
+            "Class": "Light",
             "damage":"390",
             "speed":"super fast"
             
         },
         {
             "name": "Is-7",
-            "atrtributos": "Heavy",
+            "Class": "Heavy",
             "damage":"490",
             "speed":"medium"
             
         },
         {
             "name": "T-100lt",
-            "atrtributos": "LIght",
+            "Class": "LIght",
             "damage":"320",
             "speed":"fast"
             
@@ -77,9 +77,16 @@ def get_attr(name_guess, attr):
             return world.get(attr)  # безопасно вернёт None если атрибута нет
     return None
 
+def get_attr_of_random_tank(tank_of_guess, attr):
+    for world in worlds:
+        if world["name"] == tank_of_guess:
+            return world.get(attr)  # безопасно вернёт None если атрибута нет
+    return None
 
-
-
+damage_random_tank = get_attr_of_random_tank(tank_of_guess, "damage")
+speed_random_tank = get_attr_of_random_tank(tank_of_guess, "speed")
+class_random_tank = get_attr_of_random_tank(tank_of_guess, "Class")
+print(damage_random_tank,speed_random_tank,class_random_tank)
 
 
 print("Hello in my app")
@@ -87,13 +94,19 @@ print("This is world for Wot")
 print("Try to guess what is guess today")
 print("This is list of all tanks")
 show_all_names ()
+
+
+
+
+
+
 while True:
     #### input of user 
     name_guess = input("Write tank name")
     
     ### Check guess of user
-    if check_on_write_enter(name_guess):
-        print("Name is Right wirte")
+    if check_on_write_enter == True:
+        print("NAme is Right wirte")
     else:
         print("Write again")
         pass
@@ -103,7 +116,11 @@ while True:
     print("This is your",tryes,"try")
 
     ### Check for atibutos that have chosen tank of user 
-     
+    damage = get_attr(name_guess, "damage")
+    speed = get_attr(name_guess, "speed")
+    print("Damage of tank that you guess",damage)
+    print("Speed of tank that you guess",speed)
+
 
     # Is a guess or not 
     if name_guess != tank_of_guess:
