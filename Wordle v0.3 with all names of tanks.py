@@ -66,21 +66,31 @@ def show_all_names ():
             print(i ,contacto["name"])
 
 
-show_all_names ()
 
 
 
-
-
-
-
-
-#### Chech for atrtributos in random tank
+#---------------------Check all atributos that have tanks 
+#### Check for atrtributos in random tank
 def atrtributos_gue(name_guess):
     for world in worlds:
         if world["name"] == name_guess:
             return world["atrtributos"]   # return the attribute if found
     return None  # if name not found
+#### Check for damage in random tank
+def damage_check(name_guess):
+    for world in worlds:
+        if world["name"] == name_guess:
+            return world["damage"]   # return the attribute if found
+    return None  # if name not found
+#### Check for speed in random tank
+def damage_check(name_guess):
+    for world in worlds:
+        if world["name"] == name_guess:
+            return world["speed"]   # return the attribute if found
+    return None  # if name not found
+
+
+
 
 atrtributos_guess = atrtributos_gue(tank_of_guess)
 print(atrtributos_guess)
@@ -89,13 +99,15 @@ print(atrtributos_guess)
 print("Hello in my app")
 print("This is world for Wot")
 print("Try to guess what is guess today")
+print("This is list of all tanks")
+show_all_names ()
 while True:
     #### input of user 
     name_guess = input("Write tank name")
     
     ### Check guess of user
-    if check_on_write_enter == True:
-        print("NAme is Right wirte")
+    if check_on_write_enter(name_guess):
+        print("Name is Right wirte")
     else:
         print("Write again")
         pass
@@ -108,6 +120,7 @@ while True:
     # Is a guess or not 
     if name_guess != tank_of_guess:
         print("This is not this answer ")
+        
     else:
         print("You win")
 
