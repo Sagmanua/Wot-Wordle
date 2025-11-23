@@ -66,9 +66,9 @@ def show_all_names ():
             print(i ,contacto["name"])
 
 
-
-
 show_all_names ()
+
+
 
 
 
@@ -87,6 +87,8 @@ print(atrtributos_guess)
 
 
 print("Hello in my app")
+print("This is world for Wot")
+print("Try to guess what is guess today")
 while True:
     #### input of user 
     name_guess = input("Write tank name")
