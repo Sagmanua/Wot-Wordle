@@ -1,0 +1,103 @@
+[
+        {
+            "name": "E100",
+            "Class": "Heavy",
+            "damage":"520",
+            "speed":"slow",
+            "nacio":"germany",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Change damage"
+
+            
+        },
+        {
+            "name": "Maus",
+            "Class": "Heavy",
+            "damage":"520",
+            "speed":"slow",
+            "nacio":"germany",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Change damage"
+        },
+        {
+            "name": "Pz,Kpfw. VII",
+            "Class": "Heavy",
+            "damage":"520",
+            "speed":"slow",
+            "nacio":"germany",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Change damage"
+        },
+        {
+            "name": "Jg.PZ. E 100",
+            "Class": "TD",
+            "damage":"",
+            "speed":"slow",
+            "nacio":"germany",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Change damage"
+        },
+        {
+            "name": "Grile 15 ",
+            "Class": "TD",
+            "damage":"",
+            "speed":"meduium",
+            "nacio":"germany",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Change damage"
+        },
+        {
+            "name": "G.W.E 100",
+            "Class": "ARTY",
+            "damage":"",
+            "speed":"slow",
+            "nacio":"germany",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Change damage"
+        },
+        {
+            "name": "E50M",
+            "Class": "Medium",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"germany",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Change damage"
+        },
+        {
+            "name":"Leopard 1",
+            "Class": "Medium",
+            "damage":"",
+            "speed":"fast",
+            "nacio":"germany",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Change damage"
+        },
+        {
+            "name":"RHM. Pzw",
+            "Class": "Light",
+            "damage":"",
+            "speed":"fast",
+            "nacio":"germany",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Change damage"
+        }
+]
