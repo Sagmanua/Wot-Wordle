@@ -1,0 +1,38 @@
+[
+        {
+            "name": "Vz-55",
+            "Class": "TD",
+            "damage":"490",
+            "speed":"medium",
+            "nacio":"CZ",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"clip",
+            "_comment": "All good"
+        },
+        {
+            "name": "TVP T 50/51",
+            "Class": "Medium",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"CZ",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"clip",
+            "_comment": "Check damage"
+        },
+                {
+            "name": "Tesak",
+            "Class": "Light",
+            "damage":"1080",
+            "speed":"medium",
+            "nacio":"CZ",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"clip",
+            "_comment": "All good"
+            }
+
+
+]
+
