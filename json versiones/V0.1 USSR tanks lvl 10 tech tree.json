@@ -1,8 +1,19 @@
 [
         {
             "name": "Ob 261",
-            "Class": "Heavy",
-            "damage":"400",
+            "Class": "arty",
+            "damage":"",
+            "speed":"slow",
+            "nacio":"USSR",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
+        {
+            "name": "Ob 268/4",
+            "Class": "TD",
+            "damage":"",
             "speed":"medium",
             "nacio":"USSR",
             "lvl":"10",
@@ -10,3 +21,115 @@
             "gun":"cicle",
             "_comment": "Check damage"
         },
+        {
+            "name": "Ob 268",
+            "Class": "TD",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"USSR",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
+{
+            "name": "Ob 277",
+            "Class": "Heavy",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"USSR",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
+        {
+            "name": "Is-7",
+            "Class": "Heavy",
+            "damage":"490",
+            "speed":"medium",
+            "nacio":"USSR",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
+        {
+            "name": "Ob 705A",
+            "Class": "Heavy",
+            "damage":"",
+            "speed":"slow",
+            "nacio":"USSR",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
+        {
+            "name": "Is-4",
+            "Class": "Heavy",
+            "damage":"",
+            "speed":"slow",
+            "nacio":"USSR",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
+        {
+            "name": "ST-II",
+            "Class": "Heavy",
+            "damage":"",
+            "speed":"slow",
+            "nacio":"USSR",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"",
+            "_comment": "Check damage,gun typr"
+        },
+        {
+            "name": "Obj 430u",
+            "Class": "Medium",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"USSR",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        }, 
+                {
+            "name": "Obj 140",
+            "Class": "Medium",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"USSR",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
+        {
+            "name": "K91",
+            "Class": "Medium",
+            "damage":"320",
+            "speed":"medium",
+            "nacio":"USSR",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "All right"
+        },
+        {
+            "name": "T-100 LT",
+            "Class": "Light",
+            "damage":"320",
+            "speed":"fast",
+            "nacio":"USSR",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "All right"
+        }
+
+]
