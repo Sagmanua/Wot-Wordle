@@ -1,0 +1,46 @@
+[
+        {
+            "name": "Ho-Ri 3",
+            "Class": "TD",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"japon",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
+        {
+            "name": "Type 71",
+            "Class": "Heavy",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"japon",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
+        {
+            "name": "Type 5 Heavy",
+            "Class": "Heavy",
+            "damage":"",
+            "speed":"very slow",
+            "nacio":"japon",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
+        {
+            "name": "STB-1",
+            "Class": "medium",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"japon",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        }
+]
