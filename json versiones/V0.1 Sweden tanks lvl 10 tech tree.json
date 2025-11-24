@@ -1,0 +1,39 @@
+[
+        {
+            "name": "Blyskawiza",
+            "Class": "TD",
+            "damage":"800",
+            "speed":"medium",
+            "nacio":"Poland",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "All good"
+        },
+        {
+            "name": "60TP",
+            "Class": "Heavy",
+            "damage":"650",
+            "speed":"medium",
+            "nacio":"Poland",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "All good"
+        },
+        {
+            "name": "CS-63",
+            "Class": "Medium",
+            "damage":"390",
+            "speed":"medium",
+            "nacio":"Poland",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "All good"
+        }   
+
+
+
+]
+
