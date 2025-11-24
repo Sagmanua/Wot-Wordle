@@ -1,0 +1,12 @@
+[
+        {
+            "name": "Ob 261",
+            "Class": "Heavy",
+            "damage":"400",
+            "speed":"medium",
+            "nacio":"USSR",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
