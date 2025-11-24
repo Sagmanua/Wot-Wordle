@@ -73,13 +73,13 @@ def Check_atributos_damage (damage_random_tank,damage_guess):
     else:
         return("Damage is bigger")
 ### Compare by class
-def Check_atributos_class (class_random_tank,class_guess):
+def Check_atributos_class (class_guess,class_random_tank):
     if class_guess == class_random_tank:
         return ("This is",class_guess)
     else:
         return("This is not",class_guess)
 ###Compare speed
-def Check_atributos_Speed(speed_random_tank, speed_guess):
+def Check_atributos_Speed(speed_guess,speed_random_tank):
     s1 = speed_rank[speed_random_tank.lower()]
     s2 = speed_rank[speed_guess.lower()]
 
@@ -90,7 +90,7 @@ def Check_atributos_Speed(speed_random_tank, speed_guess):
     else:
         return "It has the same speed"
 ### nacio of tank
-def Check_atributos_nacio(nacio_random_tank, nacio_guess):
+def Check_atributos_nacio(nacio_guess,nacio_random_tank, ):
     if nacio_random_tank == nacio_guess:
         return ("This is",nacio_guess)
     else:
