@@ -1,0 +1,39 @@
+[
+        {
+            "name": "Minatauro",
+            "Class": "",
+            "damage":"390",
+            "speed":"medium",
+            "nacio":"Poland",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"clip",
+            "_comment": "check damage"
+        },
+        {
+            "name": "Rinoceronte",
+            "Class": "Heavy",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"Poland",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"",
+            "_comment": "Check damage,and type of gun"
+        },
+        {
+            "name": "Progeto 65",
+            "Class": "Medium",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"Poland",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"",
+            "_comment": "Check damage,and type of gun"
+        }   
+
+
+
+]
+
