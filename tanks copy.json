@@ -1,0 +1,81 @@
+[
+        {
+            "name": "E100",
+            "Class": "Heavy",
+            "damage":"520",
+            "speed":"slow",
+            "nacio":"germany",
+            "lvl":"10",
+            "type":"Tech-Tree"
+            
+        },
+        {
+            "name":"manticora",
+            "Class": "Light",
+            "damage":"390",
+            "speed":"fast",
+            "nacio":"UK",
+            "lvl":"10",
+            "type":"Tech-Tree"
+        },
+        {
+            "name": "Maus",
+            "Class": "Heavy",
+            "damage":"520",
+            "speed":"slow",
+            "nacio":"germany",
+            "lvl":"10",
+            "type":"Tech-Tree"
+            
+        },
+        {
+            "name": "Ebr",
+            "Class": "Light",
+            "damage":"390",
+            "speed":"superfast",
+            "nacio":"france",
+            "lvl":"10",
+            "type":"Tech-Tree"
+            
+        },
+        {
+            "name": "Is-7",
+            "Class": "Heavy",
+            "damage":"490",
+            "speed":"medium",
+            "nacio":"ussr",
+            "lvl":"10",
+            "type":"Tech-Tree"
+            
+        },
+        {
+            "name": "T-100lt",
+            "Class": "Light",
+            "damage":"320",
+            "speed":"fast",
+            "nacio":"ussr",
+            "lvl":"10",
+            "type":"Tech-Tree"
+            
+        },
+        {
+            "name": "lor-40t",
+            "Class": "medium",
+            "damage":"300",
+            "speed":"fast",
+            "nacio":"france",
+            "lvl":"8",
+            "type":"Premium"
+            
+        },
+        {
+            "name": "Lancen",
+            "Class": "medium",
+            "damage":"360",
+            "speed":"fast",
+            "nacio":"Sweeden",
+            "lvl":"8",
+            "type":"Premium"
+            
+        }
+]
