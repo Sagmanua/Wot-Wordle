@@ -1,9 +1,9 @@
 [
         {
-            "name": "WS-113g FT",
+            "name": "WZ-113g FT",
             "Class": "TD",
             "damage":"",
-            "speed":"slow",
+            "speed":"medium",
             "nacio":"China",
             "lvl":"10",
             "type":"Tech-Tree",
@@ -11,10 +11,43 @@
             "_comment": "Check damage"
         },
         {
-            "name": "WS-113g FT",
+            "name": "BZ-75",
+            "Class": "Heavy",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"China",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
+        {
+            "name": "WZ-111 5A",
             "Class": "TD",
             "damage":"",
-            "speed":"slow",
+            "speed":"medium",
+            "nacio":"China",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
+        {
+            "name": "121",
+            "Class": "medium",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"China",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
+        {
+            "name": "WS-132-1",
+            "Class": "Light",
+            "damage":"",
+            "speed":"medium",
             "nacio":"China",
             "lvl":"10",
             "type":"Tech-Tree",
