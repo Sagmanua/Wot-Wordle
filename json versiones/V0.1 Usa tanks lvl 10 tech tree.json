@@ -1,0 +1,93 @@
+[
+        {
+            "name": "T92 HMC",
+            "Class": "arty",
+            "damage":"",
+            "speed":"slow",
+            "nacio":"USA",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
+        {
+            "name": "T110E3",
+            "Class": "TD",
+            "damage":"",
+            "speed":"slow",
+            "nacio":"USA",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
+        {
+            "name": "T110E4",
+            "Class": "TD",
+            "damage":"",
+            "speed":"slow",
+            "nacio":"USA",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
+        {
+            "name": "T110E5",
+            "Class": "Heavy",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"USA",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
+{
+            "name": "M-V-Y",
+            "Class": "Heavy",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"USA",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
+        {
+            "name": "T57 Heavy",
+            "Class": "Heavy",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"USA",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"clip",
+            "_comment": "Check damage"
+        },
+        {
+            "name": "M48 Patton",
+            "Class": "Medium",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"USA",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
+        {
+            "name": "Sheridan",
+            "Class": "Light",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"USA",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        }    
+
+
+
+]
