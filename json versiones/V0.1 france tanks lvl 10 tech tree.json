@@ -1,0 +1,68 @@
+[
+        {
+            "name": "AMX 50B",
+            "Class": "Heavy",
+            "damage":"400",
+            "speed":"medium",
+            "nacio":"france",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"clip",
+            "_comment": "All right"
+        },
+        {
+            "name": "AMX M4 54 ",
+            "Class": "Heavy",
+            "damage":"",
+            "speed":"slow",
+            "nacio":"france",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "check damage"
+        },
+        {
+            "name": "B-C 155 58",
+            "Class": "Arty",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"france",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"clip",
+            "_comment": "check damage"
+        },
+{
+            "name": "B-C 25t",
+            "Class": "medium",
+            "damage":"390",
+            "speed":"medium",
+            "nacio":"france",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"clip",
+            "_comment": "All right"
+        },
+{
+            "name": "AMX 13 105 ",
+            "Class": "Light",
+            "damage":"390",
+            "speed":"fast",
+            "nacio":"france",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"clip",
+            "_comment": "All right"
+        },
+{
+            "name": "Foch b",
+            "Class": "TD",
+            "damage":"400",
+            "speed":"fast",
+            "nacio":"france",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"clip",
+            "_comment": "All right"
+        }
+]
