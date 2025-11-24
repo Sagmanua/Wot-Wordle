@@ -1,0 +1,91 @@
+[
+        {
+            "name": "ConqueroGC",
+            "Class": "arty",
+            "damage":"",
+            "speed":"slow",
+            "nacio":"UK",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
+        {
+            "name": "FV4005",
+            "Class": "TD",
+            "damage":"",
+            "speed":"slow",
+            "nacio":"UK",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
+        {
+            "name": "Badger",
+            "Class": "TD",
+            "damage":"",
+            "speed":"slow",
+            "nacio":"UK",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
+        {
+            "name": "S.Conquror",
+            "Class": "Heavy",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"UK",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"cicle",
+            "_comment": "Check damage"
+        },
+        {
+            "name": "Canopener",
+            "Class": "Heavy",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"UK",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"",
+            "_comment": "Check damage,type of gun"
+        },
+        {
+            "name": "Centurion AX",
+            "Class": "Medium",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"UK",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"Cicle",
+            "_comment": "Check damage,type of gun"
+        },
+        {
+            "name": "Concept 5 ",
+            "Class": "Medium",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"UK",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"Cicle",
+            "_comment": "Check damage,type of gun"
+        },
+        {
+            "name": "Manticora",
+            "Class": "Light",
+            "damage":"",
+            "speed":"medium",
+            "nacio":"UK",
+            "lvl":"10",
+            "type":"Tech-Tree",
+            "gun":"Cicle",
+            "_comment": "Check damage,type of gun"
+        }       
+
+]
