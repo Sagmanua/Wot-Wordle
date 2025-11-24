@@ -1,0 +1,650 @@
+[
+    {
+        "name": "WZ-113G FT",
+        "Class": "TD",
+        "damage": "750",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "BZ-75",
+        "Class": "Heavy",
+        "damage": "650",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "WZ-111 5A",
+        "Class": "TD",
+        "damage": "490",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+
+    },
+    {
+        "name": "121",
+        "Class": "Medium",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "WZ-132-1",
+        "Class": "Light",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "Vz-55",
+        "Class": "TD",
+        "damage": "490",
+        "speed": "medium",
+        "nacio": "Czech Republic",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "clip"
+    },
+    {
+        "name": "TVP T 50/51",
+        "Class": "Medium",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "Czech Republic",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "clip"
+    },
+    {
+        "name": "Tesak",
+        "Class": "Light",
+        "damage": "1080",
+        "speed": "medium",
+        "nacio": "Czech Republic",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "clip"
+    },
+    {
+        "name": "AMX 50B",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "France",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "clip"
+    },
+    {
+        "name": "AMX M4 54",
+        "Class": "Heavy",
+        "damage": "560",
+        "speed": "slow",
+        "nacio": "France",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "B-C 155 58",
+        "Class": "Arty",
+        "damage": "680",
+        "speed": "medium",
+        "nacio": "France",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "clip"
+    },
+    {
+        "name": "B-C 25t",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "France",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "clip",
+        "_comment": "All good"
+    },
+    {
+        "name": "AMX 13 105",
+        "Class": "Light",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "clip",
+        "_comment": "All good"
+    },
+    {
+        "name": "Foch b",
+        "Class": "TD",
+        "damage": "400",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "clip",
+        "_comment": "All good"
+    },
+    {
+        "name": "E100",
+        "Class": "Heavy",
+        "damage": "520",
+        "speed": "slow",
+        "nacio": "Germany",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "Maus",
+        "Class": "Heavy",
+        "damage": "490",
+        "speed": "slow",
+        "nacio": "Germany",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "Pz,Kpfw. VII",
+        "Class": "Heavy",
+        "damage": "560",
+        "speed": "slow",
+        "nacio": "Germany",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "Jg.PZ. E 100",
+        "Class": "TD",
+        "damage": "1050",
+        "speed": "slow",
+        "nacio": "Germany",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "Grile 15",
+        "Class": "TD",
+        "damage": "750",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "G.W.E 100",
+        "Class": "Arty",
+        "damage": "900",
+        "speed": "slow",
+        "nacio": "Germany",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "E50M",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "Leopard 1",
+        "Class": "Medium",
+        "damage": "420",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "RHM. Pzw",
+        "Class": "Light",
+        "damage": "320",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "Minatauro",
+        "Class": "TD",
+        "damage": "530",
+        "speed": "medium",
+        "nacio": "Poland",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "clip"
+    },
+    {
+        "name": "Rinoceronte",
+        "Class": "Heavy",
+        "damage": "490",
+        "speed": "medium",
+        "nacio": "Poland",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "Autoreloader"
+    },
+    {
+        "name": "Progeto 65",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "Poland",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "Autoreloader"
+
+    },
+    {
+        "name": "Ho-Ri 3",
+        "Class": "TD",
+        "damage": "700",
+        "speed": "medium",
+        "nacio": "Japan",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "Type 71",
+        "Class": "Heavy",
+        "damage": "400 ",
+        "speed": "medium",
+        "nacio": "Japan",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "Type 5 Heavy",
+        "Class": "Heavy",
+        "damage": "650",
+        "speed": "very slow",
+        "nacio": "Japan",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "STB-1",
+        "Class": "Medium",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "Japan",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "Blyskawiza",
+        "Class": "TD",
+        "damage": "800",
+        "speed": "medium",
+        "nacio": "Poland",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "60TP",
+        "Class": "Heavy",
+        "damage": "650",
+        "speed": "medium",
+        "nacio": "Poland",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "CS-63",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "Poland",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "STRV 103B",
+        "Class": "TD",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "Poland",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "Kranvagan",
+        "Class": "Heavy",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "Poland",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "clip"
+    },
+    {
+        "name": "Udes15/16",
+        "Class": "Medium",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "Poland",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "ConqueroGC",
+        "Class": "Arty",
+        "damage": "1000",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "FV4005",
+        "Class": "TD",
+        "damage": "1150",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "Badger",
+        "Class": "TD",
+        "damage": "490",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "S.Conquror",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "UK",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "Canopener",
+        "Class": "Heavy",
+        "damage": "420",
+        "speed": "medium",
+        "nacio": "UK",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "doublet"
+    },
+    {
+        "name": "Centurion AX",
+        "Class": "Medium",
+        "damage": "",
+        "speed": "medium",
+        "nacio": "UK",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle",
+        "_comment": "Check damage, and type of gun"
+    },
+    {
+        "name": "Concept 5",
+        "Class": "Medium",
+        "damage": "520",
+        "speed": "medium",
+        "nacio": "UK",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "Manticora",
+        "Class": "Light",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "UK",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "T92 HMC",
+        "Class": "Arty",
+        "damage": "1100",
+        "speed": "slow",
+        "nacio": "USA",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "T110E3",
+        "Class": "TD",
+        "damage": "750",
+        "speed": "slow",
+        "nacio": "USA",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "T110E4",
+        "Class": "TD",
+        "damage": "750",
+        "speed": "slow",
+        "nacio": "USA",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "T110E5",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "M-V-Y",
+        "Class": "Heavy",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "T57 Heavy",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "clip"
+    },
+    {
+        "name": "M48 Patton",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "Sheridan",
+        "Class": "Light",
+        "damage": "700",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "Ob 261",
+        "Class": "Arty",
+        "damage": "1000",
+        "speed": "slow",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "Ob 268/4",
+        "Class": "TD",
+        "damage": "650",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "Ob 268",
+        "Class": "TD",
+        "damage": "650",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "Ob 277",
+        "Class": "Heavy",
+        "damage": "490",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "Is-7",
+        "Class": "Heavy",
+        "damage": "490",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "Ob 705A",
+        "Class": "Heavy",
+        "damage": "650",
+        "speed": "slow",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "Is-4",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "slow",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "ST-II",
+        "Class": "Heavy",
+        "damage": "440",
+        "speed": "slow",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "doublet"
+    },
+    {
+        "name": "Obj 430u",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+   },
+    {
+        "name": "Obj 140",
+        "Class": "Medium",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "K91",
+        "Class": "Medium",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle"
+    },
+    {
+        "name": "T-100 LT",
+        "Class": "Light",
+        "damage": "320",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Tech-Tree",
+        "gun": "cicle",
+        "_comment": "All good"
+    }
+]
+
