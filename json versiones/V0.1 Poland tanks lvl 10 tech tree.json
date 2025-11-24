@@ -25,7 +25,7 @@
             "name": "CS-63",
             "Class": "Medium",
             "damage":"390",
-            "speed":"medium",
+            "speed":"fast",
             "nacio":"Poland",
             "lvl":"10",
             "type":"Tech-Tree",
