@@ -69,9 +69,10 @@ def Check_atributos_damage (damage_random_tank,damage_guess):
     if damage_random_tank == damage_guess:
         return("Damage the same")
     elif damage_random_tank>damage_guess:
-        return("Damage is lower")
+        return("Damage of random tank is  bigger") 
     else:
-        return("Damage is bigger")
+        return("Damage of random tank is  lower")
+
 ### Compare by class
 def Check_atributos_class (class_guess,class_random_tank):
     if class_guess == class_random_tank:
@@ -134,7 +135,7 @@ while True:
     print("Nacionality of the tank you guess",nacio_guess)
 
     # Compare random tank and that user chose
-    print(Check_atributos_damage(damage_guess,damage_random_tank))
+    print(Check_atributos_damage(damage_random_tank, damage_guess))
     print(Check_atributos_class(class_guess,class_random_tank))
     print(Check_atributos_Speed(speed_guess,speed_random_tank))
     print(Check_atributos_nacio(nacio_guess,nacio_random_tank))
