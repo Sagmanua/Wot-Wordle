@@ -35,9 +35,11 @@ def check_on_write_enter ():
     return False
 
 
-def show_all_names ():
-        for i,contacto  in enumerate(worlds):
-            print(i ,contacto["name"])
+def show_all_names():
+    for i in range(0, len(worlds), 8):   # step = 8 columns
+        row = worlds[i:i+8]             # take 8 items
+        print("\t".join(f"{i+j}:{w['name']}" for j, w in enumerate(row)))
+
 
 
 
