@@ -1,5 +1,6 @@
 import tkinter as tk
 from tkinter import ttk
+from tkinter import messagebox
 import json
 import random
 
@@ -49,6 +50,7 @@ print(damage_random_tank,speed_random_tank,class_random_tank)
 
 
 
+    
 
 
 def show_all_names():
@@ -67,12 +69,10 @@ def diHola():
 
 
 
-def print_entry_text():
-    entry_text = entry.get()
-    label.config(text=entry_text)
+
 # create entry widget
-entry = tk.Entry(root, width=30)
-entry.pack(pady=20)
+
+
 
 
 
@@ -102,6 +102,8 @@ def combined():
     Check_atributos_nacio()
     Check_atributos_Speed()
     Check_atributos_class()
+
+    show_text()
 
 
 #---------------Take datos from COMBOBOX
