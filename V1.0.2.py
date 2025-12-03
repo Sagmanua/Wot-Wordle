@@ -1,5 +1,12 @@
 import tkinter as tk
 from tkinter import ttk
+import json
+
+with open("tanks.json", "r") as file:
+    worlds = json.load(file)
+
+
+
 
 # -------------------------
 # MAIN ROOT WINDOW
@@ -54,11 +61,4 @@ combo_box.bind("<<ComboboxSelected>>", select)
 # -------------------------
 # START MAINLOOP
 # -------------------------
-root.mainloop()
-
-
-
-root.title('Counting Seconds')
-button = tk.Button(root, text='Stop', width=25, command=root.destroy)
-button.pack()
 root.mainloop()
