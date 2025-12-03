@@ -82,7 +82,6 @@ def diHola():
 def select(event=None):
     global selected_value
     selected_value = combo_box.get()
-    label.config(text="Selected Item: " + selected_value)
     #print("Selected value:", selected_value)  # Can use this value elsewhere
     return selected_value
 
@@ -98,12 +97,19 @@ def combined():
     get_attr_combox_nacio()
     get_attr_combox_class()
 
-    Check_atributos_damage()
-    Check_atributos_nacio()
-    Check_atributos_Speed()
-    Check_atributos_class()
+    msg_damage = Check_atributos_damage()
+    msg_class = Check_atributos_class()
+    msg_speed = Check_atributos_Speed()
+    msg_nacio = Check_atributos_nacio()
 
-    show_text()
+    final_text = (
+        msg_damage + "\n" +
+        msg_class + "\n" +
+        msg_speed + "\n" +
+        msg_nacio
+    )
+
+    label.config(text=final_text)    
 
 
 #---------------Take datos from COMBOBOX
@@ -139,47 +145,46 @@ def get_attr_combox_class():
 
 #--------------------Compare atributos 
 ### Compare bu damage
-def Check_atributos_damage ():
-    global damage_guess
-    global damage_random_tank
+def Check_atributos_damage():
+    global damage_guess, damage_random_tank
     damage_guess = int(damage_guess)
     damage_random_tank = int(damage_random_tank)
+
     if damage_random_tank == damage_guess:
-        return("Damage the same")
-    elif damage_random_tank>damage_guess:
-        return print("Damage is lower")
+        return "Damage: same"
+    elif damage_random_tank > damage_guess:
+        return "Damage: lower"
     else:
-        return print("Damage is bigger")
+        return "Damage: bigger"
+
 ### Compare by class
 def Check_atributos_class ():
-    global class_random_tank
-    global class_guess
+    global class_random_tank,class_guess
     if class_guess == class_random_tank:
-        return print("This is",class_guess)
+        return f"Class: Correct ({class_guess})"
     else:
-        return print("This is not",class_guess)
+        return f"Class: Incorrect ({class_guess})"
 ###Compare speed
 def Check_atributos_Speed():
     global speed_random_tank, speed_guess
-
     s1 = speed_rank[speed_random_tank.lower()]
     s2 = speed_rank[speed_guess.lower()]
 
     if s1 > s2:
-        print("Random tank is faster")
+        return "Speed: Random tank is faster"
     elif s1 < s2:
-        print("Random tank is slower")
+        return "Speed: Random tank is slower"
     else:
-        print("It has the same speed")
+        return "Speed: Same speed"
 
 ### nacio of tank
 def Check_atributos_nacio():
-    global nacio_random_tank
-    global nacio_guess
+    global nacio_random_tank,nacio_guess
     if nacio_random_tank == nacio_guess:
-        return print("This is",nacio_guess)
+        return f"Nation: Correct ({nacio_guess})"
     else:
-        return print("This is not",nacio_guess)
+        return f"Nation: Incorrect ({nacio_guess})"
+
 
 ####COMBOBOX
 label = tk.Label(root, text="Selected Item: ")
