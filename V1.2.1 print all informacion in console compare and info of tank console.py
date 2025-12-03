@@ -3,6 +3,9 @@ from tkinter import ttk
 import json
 import random
 
+root = tk.Tk()
+root.title("Tkinter Widgets Example")
+
 ### variables
 selected_value = None
 tryes = 0
@@ -55,15 +58,23 @@ def show_all_names():
 
 
 
-
 def diHola():
     return print("Hola")
 
 # -------------------------
 # MAIN ROOT WINDOW
 # -------------------------
-root = tk.Tk()
-root.title("Tkinter Widgets Example")
+
+
+
+def print_entry_text():
+    entry_text = entry.get()
+    label.config(text=entry_text)
+# create entry widget
+entry = tk.Entry(root, width=30)
+entry.pack(pady=20)
+
+
 
 # -------------------------
 # COMBOBOX SECTION
