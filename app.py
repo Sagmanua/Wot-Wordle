@@ -1,16 +1,28 @@
+import tkinter as tk
+from tkinter import ttk
+from tkinter import messagebox
+import json
 import random
-import json
 
-#use json
+from idna import check_label
 
-import json
+root = tk.Tk()
+root.title("Tkinter Widgets Example")
 
+### variables
+selected_value = None
+tryes = 0
+
+
+damage_guess = 0
+speed_guess = 0
+nacio_guess = None
+class_guess = None
+
+
+# load json
 with open("tanks.json", "r") as file:
     worlds = json.load(file)
-
-
-#Declara variables
-tryes = 0
 
 #### Take random tank 
 nummber = random.randrange(len(worlds))
@@ -26,131 +38,245 @@ speed_rank = {
     "superfast": 5
 }
 
-
-
-def check_on_write_enter ():
-    for world in worlds:
-        if world["name"] == name_guess:
-            return True
-    return False
-
-
-def show_all_names():
-    per_row = 8  # number of tanks per line
-    for i, contacto in enumerate(worlds):
-        print(f"{i}:{contacto['name']:<15}", end=" ")  # <15 pads the name
-        if (i + 1) % per_row == 0:
-            print()  # newline after every `per_row` tanks
-    print()  # final newline
-
-
-
-
-
-
-#---------------------Check all atributos that have tanks 
-#### Check for atrtributos in random tank
-def get_attr(name_guess, attr):
-    for world in worlds:
-        if world["name"] == name_guess:
-            return world.get(attr)  
-    return None
-
-def get_attr_of_random_tank(tank_of_guess, attr):
+def get_attr(tank_of_guess, attr):
     for world in worlds:
         if world["name"] == tank_of_guess:
             return world.get(attr)  
     return None
 
-damage_random_tank = get_attr_of_random_tank(tank_of_guess, "damage")
-speed_random_tank = get_attr_of_random_tank(tank_of_guess, "speed")
-class_random_tank = get_attr_of_random_tank(tank_of_guess, "Class")
-nacio_random_tank = get_attr_of_random_tank(tank_of_guess,"nacio")
+damage_random_tank = get_attr(tank_of_guess, "damage")
+speed_random_tank = get_attr(tank_of_guess, "speed")
+class_random_tank = get_attr(tank_of_guess, "Class")
+nacio_random_tank = get_attr(tank_of_guess,"nacio")
 print(damage_random_tank,speed_random_tank,class_random_tank)
+
+
+
+    
+
+
+def show_all_names():
+    # Return a list of names
+    return [contacto["name"] for contacto in worlds]
+
+
+
+
+def diHola():
+    return print("Hola")
+
+# -------------------------
+# MAIN ROOT WINDOW
+# -------------------------
+
+
+
+
+# create entry widget
+
+
+
+
+
+# -------------------------
+# COMBOBOX SECTION
+# -------------------------
+def select(event=None):
+    global selected_value
+    selected_value = combo_box.get()
+    #print("Selected value:", selected_value)  # Can use this value elsewhere
+    return selected_value
+
+def print_name():
+    global selected_value
+    return selected_value
+
+click_count = 0
+
+def combined():
+    global click_count
+    click_count += 1
+    check_label.config(text=f"Try: {click_count}")
+
+    select()
+    print(print_name())
+    get_attr_combox_damage()
+    get_attr_combox_speed()
+    get_attr_combox_nacio()
+    get_attr_combox_class()
+
+    msg_damage = Check_atributos_damage()
+    msg_class = Check_atributos_class()
+    msg_speed = Check_atributos_Speed()
+    msg_nacio = Check_atributos_nacio()
+
+    final_text = (
+        msg_damage + "\n" +
+        msg_class + "\n" +
+        msg_speed + "\n" +
+        msg_nacio
+    )
+
+    label.config(text=final_text)
+
+    # ------------------------
+    #   WIN CONDITION ADDED
+    # ------------------------
+    if selected_value == tank_of_guess:
+        root.config(bg="green")
+        messagebox.showinfo("WIN", f"You Win!\nThe tank was: {tank_of_guess}")
+        reset_button.grid()  # show reset button
+
+
+  
+def reset_game():
+    global tank_of_guess, damage_random_tank, speed_random_tank, class_random_tank, nacio_random_tank, click_count
+
+    root.config(bg="SystemButtonFace")  # reset background
+    click_count = 0
+    check_label.config(text="Try: 0")
+    label.config(text="")
+
+    # Generate NEW random tank
+    new_num = random.randrange(len(worlds))
+    tank_of_guess = worlds[new_num]["name"]
+
+    # Load new tank attributes
+    damage_random_tank = get_attr(tank_of_guess, "damage")
+    speed_random_tank = get_attr(tank_of_guess, "speed")
+    class_random_tank = get_attr(tank_of_guess, "Class")
+    nacio_random_tank = get_attr(tank_of_guess, "nacio")
+
+    messagebox.showinfo("Reset", "Game is reset! New tank has been selected.")
+    
+    reset_button.grid_remove()  # hide reset button again
+
+
+#---------------Take datos from COMBOBOX
+
+    
+    
+def get_attr_combox_damage():
+    global selected_value, damage_guess
+    damage_guess = get_attr(selected_value, "damage")
+    print(damage_guess)
+
+    return damage_guess
+
+def get_attr_combox_speed():
+    global selected_value, speed_guess
+    speed_guess = get_attr(selected_value, "speed")
+    print(speed_guess)
+    return speed_guess
+
+def get_attr_combox_nacio():
+    global selected_value, nacio_guess
+    nacio_guess = get_attr(selected_value, "nacio")
+    print(nacio_guess)
+    return nacio_guess
+
+def get_attr_combox_class():
+    global selected_value, class_guess
+    class_guess = get_attr(selected_value, "Class")
+    print(class_guess)
+    return class_guess
+
+    
 
 #--------------------Compare atributos 
 ### Compare bu damage
-def Check_atributos_damage (damage_random_tank,damage_guess):
+def Check_atributos_damage():
+    global damage_guess, damage_random_tank
+    damage_guess = int(damage_guess)
+    damage_random_tank = int(damage_random_tank)
+
     if damage_random_tank == damage_guess:
-        return("Damage the same")
-    elif damage_random_tank>damage_guess:
-        return("Damage is lower")
+        return "Damage: same"
+    elif damage_random_tank > damage_guess:
+        return "Damage: lower"
     else:
-        return("Damage is bigger")
+        return "Damage: bigger"
+
 ### Compare by class
-def Check_atributos_class (class_random_tank,class_guess):
+def Check_atributos_class ():
+    global class_random_tank,class_guess
     if class_guess == class_random_tank:
-        return ("This is",class_guess)
+        return f"Class: Correct ({class_guess})"
     else:
-        return("This is not",class_guess)
+        return f"Class: Incorrect ({class_guess})"
 ###Compare speed
-def Check_atributos_Speed(speed_random_tank, speed_guess):
+def Check_atributos_Speed():
+    global speed_random_tank, speed_guess
     s1 = speed_rank[speed_random_tank.lower()]
     s2 = speed_rank[speed_guess.lower()]
 
     if s1 > s2:
-        return "Random tank is faster"
+        return "Speed: Random tank is faster"
     elif s1 < s2:
-        return "Random tank is slower"
+        return "Speed: Random tank is slower"
     else:
-        return "It has the same speed"
+        return "Speed: Same speed"
+
 ### nacio of tank
-def Check_atributos_nacio(nacio_random_tank, nacio_guess):
+def Check_atributos_nacio():
+    global nacio_random_tank,nacio_guess
     if nacio_random_tank == nacio_guess:
-        return ("This is",nacio_guess)
+        return f"Nation: Correct ({nacio_guess})"
     else:
-        return("This is not",nacio_guess)
+        return f"Nation: Incorrect ({nacio_guess})"
 
 
-print("Hello in my app")
-print("This is world for Wot")
-print("Try to guess what is guess today")
-print("This is list of all tanks")
-show_all_names ()
+####COMBOBOX
+label = tk.Label(root, text="Selected Item: ")
+label.grid(row=2, column=0, columnspan=2, pady=10)
+
+combo_box = ttk.Combobox(root, 
+                         values=show_all_names(),  # pass the list of names
+                         state='readonly')
+combo_box.grid(row=3, column=0, columnspan=2, pady=5)
+
+combo_box.set("Chose tank")
+combo_box.bind("<<ComboboxSelected>>", select)
+root.title('Counting Seconds')
+
+#### Button
+button = tk.Button(root, text='Select', width=25, command=combined)
+button.grid(row=4, column=0, columnspan=2, pady=20, padx=50)
+
+reset_button = tk.Button(root, text="Reset Game", command=lambda: reset_game())
+reset_button.grid(row=6, column=0, columnspan=2, pady=10)
+reset_button.grid_remove()  # Hide button initially
 
 
+## label try 
+
+check_label = tk.Label(root, text="Try: 0")
+check_label.grid(row=5, column=0, columnspan=2)
 
 
+# -------------------------
+# START MAINLOOP
+# -------------------------
+root.mainloop()
 
-
-while True:
-    #### input of user 
-    name_guess = input("Write tank name")
-    
-    ### Check guess of user
-    if check_on_write_enter():
-        print("Name is Right wirte")
-    else:
-        print("Write again")
-        pass
-    
-    # check is user write all write
-    tryes = tryes + 1 
-    print("This is your",tryes,"try")
-
-    ### Check for atibutos that have chosen tank of user 
-    damage_guess = get_attr(name_guess, "damage")
-    speed_guess = get_attr(name_guess, "speed")
-    class_guess = get_attr(name_guess,"Class")
-    nacio_guess = get_attr(name_guess,"nacio")
-    print("Damage of tank that you guess",damage_guess)
-    print("Speed of tank that you guess",speed_guess)
-    print("Speed of tank that you guess",class_guess)
-    print("Nacionality of the tank you guess",nacio_guess)
-
-    # Compare random tank and that user chose
-    print(Check_atributos_damage(damage_guess,damage_random_tank))
-    print(Check_atributos_class(class_guess,class_random_tank))
-    print(Check_atributos_Speed(speed_guess,speed_random_tank))
-    print(Check_atributos_nacio(nacio_guess,nacio_random_tank))
-    # Is a guess or not 
-    if name_guess != tank_of_guess:
-        print("This is not this answer ")
-        
-    else:
-        print("You win")
-        break
+'''
+call 2 comands with lambda
+button = tk.Button(root, text='Select', width=25, command=lambda: [select(), another_function()])
+button.pack()
 
 
 
-    
+combiend 2 def in 1 
+def select():
+    print("Select function executed")
+
+def another_function():
+    print("Another function executed")
+
+def combined():
+    select()
+    another_function()
+'''
+
+
+
