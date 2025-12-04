@@ -35,11 +35,9 @@ def check_on_write_enter ():
     return False
 
 
-def show_all_names():
-    for i in range(0, len(worlds), 8):   # step = 8 columns
-        row = worlds[i:i+8]             # take 8 items
-        print("\t".join(f"{i+j}:{w['name']}" for j, w in enumerate(row)))
-
+def show_all_names ():
+        for i,contacto  in enumerate(worlds):
+            print(i ,contacto["name"])
 
 
 
@@ -71,18 +69,17 @@ def Check_atributos_damage (damage_random_tank,damage_guess):
     if damage_random_tank == damage_guess:
         return("Damage the same")
     elif damage_random_tank>damage_guess:
-        return("Damage of random tank is  bigger") 
+        return("Damage is lower")
     else:
-        return("Damage of random tank is  lower")
-
+        return("Damage is bigger")
 ### Compare by class
-def Check_atributos_class (class_guess,class_random_tank):
+def Check_atributos_class (class_random_tank,class_guess):
     if class_guess == class_random_tank:
         return ("This is",class_guess)
     else:
         return("This is not",class_guess)
 ###Compare speed
-def Check_atributos_Speed(speed_guess,speed_random_tank):
+def Check_atributos_Speed(speed_random_tank, speed_guess):
     s1 = speed_rank[speed_random_tank.lower()]
     s2 = speed_rank[speed_guess.lower()]
 
@@ -93,7 +90,7 @@ def Check_atributos_Speed(speed_guess,speed_random_tank):
     else:
         return "It has the same speed"
 ### nacio of tank
-def Check_atributos_nacio(nacio_guess,nacio_random_tank, ):
+def Check_atributos_nacio(nacio_random_tank, nacio_guess):
     if nacio_random_tank == nacio_guess:
         return ("This is",nacio_guess)
     else:
@@ -137,7 +134,7 @@ while True:
     print("Nacionality of the tank you guess",nacio_guess)
 
     # Compare random tank and that user chose
-    print(Check_atributos_damage(damage_random_tank, damage_guess))
+    print(Check_atributos_damage(damage_guess,damage_random_tank))
     print(Check_atributos_class(class_guess,class_random_tank))
     print(Check_atributos_Speed(speed_guess,speed_random_tank))
     print(Check_atributos_nacio(nacio_guess,nacio_random_tank))
