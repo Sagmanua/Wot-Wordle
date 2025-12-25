@@ -1,479 +1,579 @@
 [
     {
-        "name": "WZ-113G FT",
-        "Class": "TD",
-        "damage": "750",
-        "speed": "medium",
-        "nacio": "China",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "BZ-75",
+        "name": "AMX 50 100",
         "Class": "Heavy",
-        "damage": "650",
-        "speed": "medium",
-        "nacio": "China",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
+        "damage": "280",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Tech-Tree"
     },
     {
-        "name": "WZ-111 5A",
-        "Class": "TD",
-        "damage": "490",
+        "name": "IS-M",
+        "Class": "Heavy",
+        "damage": "390",
         "speed": "medium",
-        "nacio": "China",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Tech-Tree"
     },
     {
-        "name": "121",
+        "name": "Object 907",
         "Class": "Medium",
+        "damage": "320",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "Patton the Tank",
+        "Class": "Medium",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Object 777 Version II",
+        "Class": "Heavy",
         "damage": "440",
         "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "110",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
         "nacio": "China",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Projekt ION",
+        "Class": "Heavy",
+        "damage": "460",
+        "speed": "medium",
+        "nacio": "Czech",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "TS-54",
+        "Class": "Heavy",
+        "damage": "280",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Object 701",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "slow",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "WZ-111 model 1-4",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "ERAC 105 Proto",
+        "Class": "Light",
+        "damage": "320",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "XM69 Hacker",
+        "Class": "Medium",
+        "damage": "410",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "11",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Type 71",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "Japan",
         "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "M6A2E1",
+        "Class": "Heavy",
+        "damage": "320",
+        "speed": "slow",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Conqueror FL",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Ho-Ri 3",
+        "Class": "At-spg",
+        "damage": "700",
+        "speed": "medium",
+        "nacio": "Japan",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "ST-II",
+        "Class": "Heavy",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "KR-1",
+        "Class": "Heavy",
+        "damage": "530",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "11",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "AMX 50 B",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "LPT-67 Šelma",
+        "Class": "Light",
+        "damage": "11",
+        "speed": "fast",
+        "nacio": "Czech",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Rheinmetall Panzerwagen",
+        "Class": "Light",
+        "damage": "320",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "10",
+        "type": "Tech-Tree"
     },
     {
         "name": "WZ-132-1",
         "Class": "Light",
         "damage": "390",
-        "speed": "medium",
+        "speed": "fast",
         "nacio": "China",
         "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
+        "type": "Tech-Tree"
     },
     {
-        "name": "Vz-55",
+        "name": "HWK 12",
+        "Class": "Light",
+        "damage": "240",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Chimera",
+        "Class": "Medium",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "T-10",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "SU-14-2",
+        "Class": "Spg",
+        "damage": "600",
+        "speed": "slow",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "TBT",
         "Class": "Heavy",
         "damage": "490",
         "speed": "medium",
-        "nacio": "Czech Republic",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "clip"
+        "nacio": "Czech",
+        "lvl": "9",
+        "type": "Premium"
     },
     {
-        "name": "TVP T 50/51",
+        "name": "LT-432",
+        "Class": "Light",
+        "damage": "180",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Obsidian",
+        "Class": "Medium",
+        "damage": "200",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "WZ-111-1G FT",
+        "Class": "At-spg",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "LHMTV",
+        "Class": "Light",
+        "damage": "135",
+        "speed": "fast",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "M-V-Y",
+        "Class": "Heavy",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "WZ-111 Alpine Tiger",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "K-91",
         "Class": "Medium",
         "damage": "320",
-        "speed": "medium",
-        "nacio": "Czech Republic",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "clip"
-    },
-    {
-        "name": "Tesak",
-        "Class": "Light",
-        "damage": "1080",
-        "speed": "medium",
-        "nacio": "Czech Republic",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "clip"
-    },
-    {
-        "name": "AMX 50B",
-        "Class": "Heavy",
-        "damage": "400",
-        "speed": "medium",
-        "nacio": "France",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "clip"
-    },
-    {
-        "name": "AMX M4 54",
-        "Class": "Heavy",
-        "damage": "560",
-        "speed": "slow",
-        "nacio": "France",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "B-C 155 58",
-        "Class": "Arty",
-        "damage": "680",
-        "speed": "medium",
-        "nacio": "France",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "clip"
-    },
-    {
-        "name": "B-C 25t",
-        "Class": "Medium",
-        "damage": "390",
-        "speed": "medium",
-        "nacio": "France",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "clip",
-        "_comment": "All good"
-    },
-    {
-        "name": "AMX 13 105",
-        "Class": "Light",
-        "damage": "390",
         "speed": "fast",
-        "nacio": "France",
+        "nacio": "USSR",
         "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "clip",
-        "_comment": "All good"
+        "type": "Tech-Tree"
     },
     {
-        "name": "Foch b",
-        "Class": "TD",
-        "damage": "400",
-        "speed": "fast",
-        "nacio": "France",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "clip",
-        "_comment": "All good"
-    },
-    {
-        "name": "E100",
+        "name": "Tiger-Maus",
         "Class": "Heavy",
-        "damage": "520",
-        "speed": "slow",
-        "nacio": "Germany",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "Maus",
-        "Class": "Heavy",
-        "damage": "490",
-        "speed": "slow",
-        "nacio": "Germany",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "Pz,Kpfw. VII",
-        "Class": "Heavy",
-        "damage": "560",
-        "speed": "slow",
-        "nacio": "Germany",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "Jg.PZ. E 100",
-        "Class": "TD",
-        "damage": "1050",
-        "speed": "slow",
-        "nacio": "Germany",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "Grile 15",
-        "Class": "TD",
-        "damage": "750",
-        "speed": "medium",
-        "nacio": "Germany",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "G.W.E 100",
-        "Class": "Arty",
-        "damage": "900",
-        "speed": "slow",
-        "nacio": "Germany",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "E50M",
-        "Class": "Medium",
-        "damage": "390",
-        "speed": "medium",
-        "nacio": "Germany",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "Leopard 1",
-        "Class": "Medium",
-        "damage": "420",
-        "speed": "fast",
-        "nacio": "Germany",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "RHM. Pzw",
-        "Class": "Light",
-        "damage": "320",
-        "speed": "fast",
-        "nacio": "Germany",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "Minatauro",
-        "Class": "TD",
         "damage": "530",
-        "speed": "medium",
-        "nacio": "Poland",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "clip"
+        "speed": "slow",
+        "nacio": "Germany",
+        "lvl": "9",
+        "type": "Premium"
     },
     {
-        "name": "Rinoceronte",
-        "Class": "Heavy",
-        "damage": "490",
-        "speed": "medium",
-        "nacio": "Poland",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "Autoreloader"
+        "name": "SU-101",
+        "Class": "At-spg",
+        "damage": "320",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Tech-Tree"
     },
     {
-        "name": "Progeto 65",
-        "Class": "Medium",
-        "damage": "390",
-        "speed": "medium",
-        "nacio": "Poland",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "Autoreloader"
-
-    },
-    {
-        "name": "Ho-Ri 3",
-        "Class": "TD",
-        "damage": "700",
-        "speed": "medium",
-        "nacio": "Japan",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "Type 71",
-        "Class": "Heavy",
-        "damage": "400 ",
-        "speed": "medium",
-        "nacio": "Japan",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "Type 5 Heavy",
+        "name": "BZ-75",
         "Class": "Heavy",
         "damage": "650",
-        "speed": "very slow",
-        "nacio": "Japan",
+        "speed": "slow",
+        "nacio": "China",
         "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
+        "type": "Tech-Tree"
     },
     {
-        "name": "STB-1",
+        "name": "Projet Louis",
+        "Class": "Light",
+        "damage": "125",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "IS-4",
+        "Class": "Heavy",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Cobra",
         "Class": "Medium",
         "damage": "360",
         "speed": "medium",
-        "nacio": "Japan",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
+        "nacio": "UK",
+        "lvl": "9",
+        "type": "Premium"
     },
     {
-        "name": "Blyskawiza",
-        "Class": "TD",
-        "damage": "800",
-        "speed": "medium",
-        "nacio": "Poland",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "60TP",
-        "Class": "Heavy",
-        "damage": "650",
-        "speed": "medium",
-        "nacio": "Poland",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "CS-63",
+        "name": "Vickers MBT Mk. 3",
         "Class": "Medium",
         "damage": "390",
         "speed": "fast",
-        "nacio": "Poland",
+        "nacio": "UK",
         "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
+        "type": "Premium"
     },
     {
-        "name": "STRV 103B",
-        "Class": "TD",
-        "damage": "390",
-        "speed": "medium",
-        "nacio": "Poland",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "Kranvagan",
+        "name": "IS-2-II",
         "Class": "Heavy",
-        "damage": "440",
+        "damage": "230",
         "speed": "medium",
-        "nacio": "Poland",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "clip"
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Tech-Tree"
     },
     {
-        "name": "Udes15/16",
+        "name": "FV3805",
+        "Class": "Spg",
+        "damage": "550",
+        "speed": "medium",
+        "nacio": "UK",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "STA-1",
+        "Class": "Medium",
+        "damage": "240",
+        "speed": "medium",
+        "nacio": "Japan",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Bat.-Châtillon 12 t",
+        "Class": "Light",
+        "damage": "170",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "T95",
+        "Class": "At-spg",
+        "damage": "360",
+        "speed": "slow",
+        "nacio": "USA",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Panhard EBR 75 (FL 10)",
+        "Class": "Light",
+        "damage": "175",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Vercingétorix",
+        "Class": "Medium",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "France",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Object 430U",
         "Class": "Medium",
         "damage": "440",
         "speed": "medium",
-        "nacio": "Poland",
+        "nacio": "USSR",
         "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
+        "type": "Tech-Tree"
     },
     {
-        "name": "ConqueroGC",
-        "Class": "Arty",
-        "damage": "1000",
-        "speed": "slow",
-        "nacio": "UK",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "FV4005",
-        "Class": "TD",
-        "damage": "1150",
-        "speed": "slow",
-        "nacio": "UK",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "Badger",
-        "Class": "TD",
-        "damage": "490",
-        "speed": "slow",
-        "nacio": "UK",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "S.Conquror",
+        "name": "IS-3A Peregrine",
         "Class": "Heavy",
-        "damage": "400",
+        "damage": "390",
         "speed": "medium",
-        "nacio": "UK",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
     },
     {
-        "name": "Canopener",
+        "name": "Bat.-Châtillon Bourrasque",
+        "Class": "Medium",
+        "damage": "360",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "IS-7",
         "Class": "Heavy",
+        "damage": "490",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "XM57",
+        "Class": "At-spg",
+        "damage": "630",
+        "speed": "slow",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Nemesis",
+        "Class": "Medium",
         "damage": "420",
         "speed": "medium",
         "nacio": "UK",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "doublet"
+        "lvl": "8",
+        "type": "Premium"
     },
     {
-        "name": "Centurion AX",
+        "name": "Panther II",
         "Class": "Medium",
-        "damage": "",
-        "speed": "medium",
-        "nacio": "UK",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle",
-        "_comment": "Check damage, and type of gun"
+        "damage": "135",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Tech-Tree"
     },
     {
-        "name": "Concept 5",
-        "Class": "Medium",
-        "damage": "520",
+        "name": "Chrysler K GF",
+        "Class": "Heavy",
+        "damage": "320",
         "speed": "medium",
-        "nacio": "UK",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
     },
     {
-        "name": "Manticora",
+        "name": "LTS-85",
         "Class": "Light",
-        "damage": "390",
+        "damage": "300",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Taschenratte",
+        "Class": "Heavy",
+        "damage": "510",
+        "speed": "slow",
+        "nacio": "Germany",
+        "lvl": "11",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "T32",
+        "Class": "Heavy",
+        "damage": "240",
         "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "AltProto AMX 30",
+        "Class": "Medium",
+        "damage": "300",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Object 704",
+        "Class": "At-spg",
+        "damage": "750",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Charioteer Nomad",
+        "Class": "At-spg",
+        "damage": "390",
+        "speed": "fast",
         "nacio": "UK",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
+        "lvl": "8",
+        "type": "Premium"
     },
     {
-        "name": "T92 HMC",
-        "Class": "Arty",
-        "damage": "1100",
-        "speed": "slow",
-        "nacio": "USA",
+        "name": "116-F3",
+        "Class": "Heavy",
+        "damage": "530",
+        "speed": "medium",
+        "nacio": "China",
         "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
+        "type": "Premium"
     },
     {
-        "name": "T110E3",
-        "Class": "TD",
-        "damage": "750",
+        "name": "E 100",
+        "Class": "Heavy",
+        "damage": "530",
         "speed": "slow",
-        "nacio": "USA",
+        "nacio": "Germany",
         "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "T110E4",
-        "Class": "TD",
-        "damage": "750",
-        "speed": "slow",
-        "nacio": "USA",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
+        "type": "Tech-Tree"
     },
     {
         "name": "T110E5",
@@ -482,18 +582,286 @@
         "speed": "medium",
         "nacio": "USA",
         "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
+        "type": "Tech-Tree"
     },
     {
-        "name": "M-V-Y",
+        "name": "M60",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "USA",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "Somua SM",
+        "Class": "Heavy",
+        "damage": "300",
+        "speed": "medium",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "VK 45.02 (P) Ausf. A",
+        "Class": "Heavy",
+        "damage": "280",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "T34 FL",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Charioteer",
+        "Class": "At-spg",
+        "damage": "230",
+        "speed": "fast",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Conqueror",
+        "Class": "Heavy",
+        "damage": "280",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "T 54D",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Emil I",
         "Class": "Heavy",
         "damage": "320",
         "speed": "medium",
+        "nacio": "Sweden",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Ho-Ri 2",
+        "Class": "At-spg",
+        "damage": "360",
+        "speed": "slow",
+        "nacio": "Japan",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "212A",
+        "Class": "Spg",
+        "damage": "600",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Bat.-Châtillon 155 55",
+        "Class": "Spg",
+        "damage": "680",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Prototipo 6",
+        "Class": "Medium",
+        "damage": "300",
+        "speed": "medium",
+        "nacio": "Italy",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Jagdpanther II",
+        "Class": "At-spg",
+        "damage": "240",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "AE Phase I",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "medium",
         "nacio": "USA",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "DBV-152",
+        "Class": "At-spg",
+        "damage": "800",
+        "speed": "fast",
+        "nacio": "Czech",
         "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
+        "type": "Premium"
+    },
+    {
+        "name": "IS-6 FL",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "WZ-120G FT",
+        "Class": "At-spg",
+        "damage": "560",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "AMX M4 mle. 51 FL",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "slow",
+        "nacio": "France",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Kranvagn",
+        "Class": "Heavy",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "Sweden",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "AMX 30 B",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Concept 1B",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Object 430 Version II",
+        "Class": "Medium",
+        "damage": "320",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "T-34-3",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Kampfpanzer 07 RH",
+        "Class": "Medium",
+        "damage": "200",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "AMX M4 mle. 49 FL",
+        "Class": "Heavy",
+        "damage": "300",
+        "speed": "medium",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Rheinmetall Skorpion",
+        "Class": "At-spg",
+        "damage": "490",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "AMX 65 t",
+        "Class": "Heavy",
+        "damage": "300",
+        "speed": "medium",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "CS-63",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "Poland",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "ISU-152",
+        "Class": "At-spg",
+        "damage": "700",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "AS-XX 40 t",
+        "Class": "Medium",
+        "damage": "410",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "11",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "White Dragon",
+        "Class": "Medium",
+        "damage": "200",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
     },
     {
         "name": "T57 Heavy",
@@ -502,149 +870,3741 @@
         "speed": "medium",
         "nacio": "USA",
         "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "clip"
+        "type": "Tech-Tree"
     },
     {
-        "name": "M48 Patton",
+        "name": "Type 5 Ka-Ri",
+        "Class": "At-spg",
+        "damage": "500",
+        "speed": "medium",
+        "nacio": "Japan",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "K-91 Version II",
+        "Class": "Medium",
+        "damage": "300",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "KV-4 KTTS",
+        "Class": "At-spg",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Object 416",
+        "Class": "Medium",
+        "damage": "250",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "CC-46 Pancernik",
+        "Class": "Heavy",
+        "damage": "650",
+        "speed": "slow",
+        "nacio": "Poland",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Leopard 1",
+        "Class": "Medium",
+        "damage": "420",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Type 61",
+        "Class": "Medium",
+        "damage": "240",
+        "speed": "medium",
+        "nacio": "Japan",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Schwertwal",
+        "Class": "Heavy",
+        "damage": "700",
+        "speed": "slow",
+        "nacio": "Germany",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "Type 59 G",
+        "Class": "Medium",
+        "damage": "250",
+        "speed": "fast",
+        "nacio": "China",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Vz. 64 Blesk",
+        "Class": "Light",
+        "damage": "5",
+        "speed": "fast",
+        "nacio": "Czech",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "KV-4 Kreslavskiy",
+        "Class": "Heavy",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "XM66F",
+        "Class": "At-spg",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Charlemagne",
+        "Class": "Heavy",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "SDP 58 Kilana",
+        "Class": "At-spg",
+        "damage": "600",
+        "speed": "medium",
+        "nacio": "Poland",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "FV601 Saladin",
+        "Class": "Medium",
+        "damage": "150",
+        "speed": "fast",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "STG",
         "Class": "Medium",
         "damage": "390",
         "speed": "medium",
-        "nacio": "USA",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "Sheridan",
-        "Class": "Light",
-        "damage": "700",
-        "speed": "medium",
-        "nacio": "USA",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "Ob 261",
-        "Class": "Arty",
-        "damage": "1000",
-        "speed": "slow",
         "nacio": "USSR",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
+        "lvl": "8",
+        "type": "Premium"
     },
     {
-        "name": "Ob 268/4",
-        "Class": "TD",
-        "damage": "650",
-        "speed": "medium",
-        "nacio": "USSR",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "Ob 268",
-        "Class": "TD",
-        "damage": "650",
-        "speed": "medium",
-        "nacio": "USSR",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "Ob 277",
-        "Class": "Heavy",
-        "damage": "490",
-        "speed": "medium",
-        "nacio": "USSR",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "Is-7",
-        "Class": "Heavy",
-        "damage": "490",
-        "speed": "medium",
-        "nacio": "USSR",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "Ob 705A",
-        "Class": "Heavy",
-        "damage": "650",
-        "speed": "slow",
-        "nacio": "USSR",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "Is-4",
-        "Class": "Heavy",
-        "damage": "390",
-        "speed": "slow",
-        "nacio": "USSR",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-    },
-    {
-        "name": "ST-II",
+        "name": "VK 168.01 (P)",
         "Class": "Heavy",
         "damage": "440",
         "speed": "slow",
-        "nacio": "USSR",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "doublet"
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
     },
     {
-        "name": "Obj 430u",
+        "name": "Object 252U",
+        "Class": "Heavy",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "IS-3",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Rhm.-Borsig Waffenträger",
+        "Class": "At-spg",
+        "damage": "490",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Rambo",
+        "Class": "Heavy",
+        "damage": "360",
+        "speed": "slow",
+        "nacio": "USA",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Object 252U Defender",
+        "Class": "Heavy",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "M41 Walker Bulldog",
+        "Class": "Light",
+        "damage": "170",
+        "speed": "fast",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Schwarzpanzer 58",
+        "Class": "Medium",
+        "damage": "300",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "AMX 50 120",
+        "Class": "Heavy",
+        "damage": "300",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "T30",
+        "Class": "At-spg",
+        "damage": "450",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "T77",
+        "Class": "Heavy",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "FV230 Canopener",
+        "Class": "Heavy",
+        "damage": "420",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "AMX 13 90",
+        "Class": "Light",
+        "damage": "170",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Object 261",
+        "Class": "Spg",
+        "damage": "800",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "FV215b",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "Mäuschen",
+        "Class": "Heavy",
+        "damage": "440",
+        "speed": "slow",
+        "nacio": "Germany",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Object 268 Version V",
+        "Class": "At-spg",
+        "damage": "750",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "Type 68",
+        "Class": "Heavy",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "Japan",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "AAT60",
+        "Class": "Medium",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Centurion Action X",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "UK",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "E 75 TS",
+        "Class": "Heavy",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "VK 100.01 (P)",
+        "Class": "Heavy",
+        "damage": "320",
+        "speed": "slow",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "FV4025 Contriver",
+        "Class": "Heavy",
+        "damage": "440",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "11",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Vz. 71 Tesák",
+        "Class": "Light",
+        "damage": "16",
+        "speed": "fast",
+        "nacio": "Czech",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "M-III-Y",
+        "Class": "Heavy",
+        "damage": "240",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Kpz. 3 GST Turm",
+        "Class": "At-spg",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "M41D",
+        "Class": "Light",
+        "damage": "170",
+        "speed": "fast",
+        "nacio": "China",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Chrysler MTC 2TC",
+        "Class": "Medium",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "ISU-122-2",
+        "Class": "At-spg",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Mittlerer Kpz. Pr. 68 (P)",
+        "Class": "Medium",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "WZ-120-1G FT FL",
+        "Class": "At-spg",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "FV4202 FL",
+        "Class": "Medium",
+        "damage": "230",
+        "speed": "medium",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Tiger II",
+        "Class": "Heavy",
+        "damage": "280",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "FV215b (183)",
+        "Class": "At-spg",
+        "damage": "1150",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "TT-130M",
+        "Class": "Heavy",
+        "damage": "490",
+        "speed": "slow",
+        "nacio": "Czech",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "M48A2 Räumpanzer",
+        "Class": "Medium",
+        "damage": "280",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "ST-I",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Object 268 Version 4",
+        "Class": "At-spg",
+        "damage": "650",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "M-VI-Y",
+        "Class": "Heavy",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Kampfpanzer 07 P(E)",
+        "Class": "Heavy",
+        "damage": "410",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "M40/M43",
+        "Class": "Spg",
+        "damage": "600",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "AT 15",
+        "Class": "At-spg",
+        "damage": "230",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Object 257",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "IS-3-II",
+        "Class": "Heavy",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "T25 Pilot Number 1",
+        "Class": "Medium",
+        "damage": "240",
+        "speed": "fast",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "T92 HMC",
+        "Class": "Spg",
+        "damage": "1100",
+        "speed": "slow",
+        "nacio": "USA",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Object 452K",
+        "Class": "Heavy",
+        "damage": "560",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "ELC EVEN 90 FL",
+        "Class": "Light",
+        "damage": "220",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "M46 Patton",
+        "Class": "Medium",
+        "damage": "280",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "AMX 50 Foch",
+        "Class": "At-spg",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "France",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "M46 Patton FL",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Conqueror Gun Carriage",
+        "Class": "Spg",
+        "damage": "1000",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Emil II",
+        "Class": "Heavy",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "Sweden",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "M103",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "slow",
+        "nacio": "USA",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "E 77",
+        "Class": "Heavy",
+        "damage": "460",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Leopard 120 Verbessert",
+        "Class": "Medium",
+        "damage": "440",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "11",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "BZ-79",
+        "Class": "Heavy",
+        "damage": "690",
+        "speed": "slow",
+        "nacio": "China",
+        "lvl": "11",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Vz. 68 Squall",
+        "Class": "Light",
+        "damage": "8",
+        "speed": "fast",
+        "nacio": "Czech",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "T-54",
+        "Class": "Medium",
+        "damage": "300",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "AMX AC mle. 48",
+        "Class": "At-spg",
+        "damage": "300",
+        "speed": "medium",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "TS-60",
+        "Class": "At-spg",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "G.W. E 100",
+        "Class": "Spg",
+        "damage": "900",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "T34 B",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "P.44 Pantera",
+        "Class": "Medium",
+        "damage": "240",
+        "speed": "fast",
+        "nacio": "Italy",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "KPz 3 Projekt 07 HK",
+        "Class": "At-spg",
+        "damage": "360",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "AMX M4 mle. 49 Liberté",
+        "Class": "Heavy",
+        "damage": "300",
+        "speed": "medium",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Hirschkäfer",
+        "Class": "At-spg",
+        "damage": "550",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "11",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "E 50",
+        "Class": "Medium",
+        "damage": "280",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "TS-5",
+        "Class": "At-spg",
+        "damage": "400",
+        "speed": "slow",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "112 FL",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "IS-5 (Object 730)",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "M4A1 Revalorisé",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Panther mit 8,8 cm L/71",
+        "Class": "Medium",
+        "damage": "280",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "53TP Markowskiego",
+        "Class": "Heavy",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "Poland",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Chieftain/T95",
+        "Class": "Medium",
+        "damage": "240",
+        "speed": "medium",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "50TP Tyszkiewicza",
+        "Class": "Heavy",
+        "damage": "420",
+        "speed": "medium",
+        "nacio": "Poland",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Löwe",
+        "Class": "Heavy",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Object 705",
+        "Class": "Heavy",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "TVP VTU Koncept",
+        "Class": "Medium",
+        "damage": "220",
+        "speed": "medium",
+        "nacio": "Czech",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "T-54 first prototype",
+        "Class": "Medium",
+        "damage": "250",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "FCM 50 t",
+        "Class": "Heavy",
+        "damage": "240",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "T110E4",
+        "Class": "At-spg",
+        "damage": "750",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "FV1066 Senlac",
+        "Class": "Light",
+        "damage": "180",
+        "speed": "fast",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "KV-4",
+        "Class": "Heavy",
+        "damage": "300",
+        "speed": "slow",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "UDES 14 Alt 5",
+        "Class": "Medium",
+        "damage": "250",
+        "speed": "fast",
+        "nacio": "Sweden",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "E 50 Ausf. M",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Type 4 Heavy",
+        "Class": "Heavy",
+        "damage": "550",
+        "speed": "slow",
+        "nacio": "Japan",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Controcarro 3 Minotauro",
+        "Class": "At-spg",
+        "damage": "530",
+        "speed": "slow",
+        "nacio": "Italy",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Object 703 Version II",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "59-Patton",
+        "Class": "Medium",
+        "damage": "280",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "TVP T 50/51",
+        "Class": "Medium",
+        "damage": "320",
+        "speed": "fast",
+        "nacio": "Czech",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "50TP Resilient",
+        "Class": "Heavy",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "Poland",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "T-54 ltwt.",
+        "Class": "Light",
+        "damage": "250",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Mars",
+        "Class": "Medium",
+        "damage": "240",
+        "speed": "fast",
+        "nacio": "Italy",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Škoda T 50",
+        "Class": "Medium",
+        "damage": "300",
+        "speed": "medium",
+        "nacio": "Czech",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "T26E4 SuperPershing",
+        "Class": "Medium",
+        "damage": "240",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Coccodrillo",
+        "Class": "Medium",
+        "damage": "470",
+        "speed": "medium",
+        "nacio": "Italy",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "T69",
+        "Class": "Medium",
+        "damage": "175",
+        "speed": "fast",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "TNH 105/1000",
+        "Class": "Heavy",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "Czech",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Strv S1 FL",
+        "Class": "At-spg",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "Sweden",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "T-44-100",
+        "Class": "Medium",
+        "damage": "250",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Sentinelle",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "France",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Strv 103B",
+        "Class": "At-spg",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "Sweden",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "AMX 13 105",
+        "Class": "Light",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "SDP 60 Gonkiewicza",
+        "Class": "At-spg",
+        "damage": "700",
+        "speed": "medium",
+        "nacio": "Poland",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "KV-4 Turchaninov",
+        "Class": "Heavy",
+        "damage": "300",
+        "speed": "slow",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Progetto M35 mod. 46",
+        "Class": "Medium",
+        "damage": "240",
+        "speed": "fast",
+        "nacio": "Italy",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Windhund",
+        "Class": "At-spg",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Type 59 First Warrior",
+        "Class": "Medium",
+        "damage": "250",
+        "speed": "fast",
+        "nacio": "China",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Bofors Tornvagn",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "Sweden",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "FV4201 Chieftain Proto",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "UK",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Panzer 58 Mutz",
+        "Class": "Medium",
+        "damage": "300",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "NC 70 Błyskawica",
+        "Class": "At-spg",
+        "damage": "800",
+        "speed": "medium",
+        "nacio": "Poland",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "G.W. Tiger (P)",
+        "Class": "Spg",
+        "damage": "750",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Stinger",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "GSOR 1006 Scheme 7",
+        "Class": "Medium",
+        "damage": "280",
+        "speed": "fast",
+        "nacio": "UK",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "STG Guard",
         "Class": "Medium",
         "damage": "390",
         "speed": "medium",
         "nacio": "USSR",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
-   },
-    {
-        "name": "Obj 140",
-        "Class": "Medium",
-        "damage": "320",
-        "speed": "medium",
-        "nacio": "USSR",
-        "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
+        "lvl": "8",
+        "type": "Premium"
     },
     {
-        "name": "K91",
+        "name": "Udarniy",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "T54 Heavy Tank",
+        "Class": "Heavy",
+        "damage": "450",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "T28 Prototype",
+        "Class": "At-spg",
+        "damage": "360",
+        "speed": "slow",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Löwe FL",
+        "Class": "Heavy",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "TS-6",
+        "Class": "Heavy",
+        "damage": "460",
+        "speed": "slow",
+        "nacio": "USA",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Caernarvon",
+        "Class": "Heavy",
+        "damage": "150",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "CS-59",
+        "Class": "Medium",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "Poland",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Waffenträger auf Pz. IV",
+        "Class": "At-spg",
+        "damage": "490",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "ST-62 Version 2",
         "Class": "Medium",
         "damage": "320",
         "speed": "medium",
         "nacio": "USSR",
         "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle"
+        "type": "Premium"
+    },
+    {
+        "name": "8,8 cm Pak 43 Jagdtiger",
+        "Class": "At-spg",
+        "damage": "240",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "KJPZ TIII Jäger",
+        "Class": "At-spg",
+        "damage": "450",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Rheinmetall Skorpion G",
+        "Class": "At-spg",
+        "damage": "490",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "TL-7",
+        "Class": "At-spg",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "MBT-B",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "GSOR the TANK",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "UK",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Felice",
+        "Class": "Medium",
+        "damage": "480",
+        "speed": "medium",
+        "nacio": "Italy",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "IS-6 B",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "BZ-72-1",
+        "Class": "Heavy",
+        "damage": "560",
+        "speed": "slow",
+        "nacio": "China",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "T110E5 CL",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "Centurion Mk. I",
+        "Class": "Medium",
+        "damage": "150",
+        "speed": "medium",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Stitch",
+        "Class": "Heavy",
+        "damage": "330",
+        "speed": "medium",
+        "nacio": "Japan",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Object 590",
+        "Class": "Medium",
+        "damage": "320",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "STA-2",
+        "Class": "Medium",
+        "damage": "240",
+        "speed": "fast",
+        "nacio": "Japan",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "T-44-100 Igrovoy",
+        "Class": "Medium",
+        "damage": "250",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "WZ-132A",
+        "Class": "Light",
+        "damage": "250",
+        "speed": "fast",
+        "nacio": "China",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Bat.-Châtillon 25 t AP",
+        "Class": "Medium",
+        "damage": "280",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Alembic",
+        "Class": "Medium",
+        "damage": "320",
+        "speed": "fast",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Pz.Kpfw. VII",
+        "Class": "Heavy",
+        "damage": "560",
+        "speed": "slow",
+        "nacio": "Germany",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "T-103",
+        "Class": "At-spg",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Vz. 60S Dravec",
+        "Class": "Heavy",
+        "damage": "450",
+        "speed": "medium",
+        "nacio": "Czech",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "Bat.-Châtillon 25 t",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "10",
+        "type": "Tech-Tree"
     },
     {
         "name": "T-100 LT",
         "Class": "Light",
+        "damage": "300",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "TITT Rozanov",
+        "Class": "Medium",
+        "damage": "200",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Type 57",
+        "Class": "Heavy",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "Japan",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Kunze Panzer",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "T95/FV4201 Chieftain",
+        "Class": "Heavy",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "UK",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "SMV CC-64 Vipera",
+        "Class": "At-spg",
+        "damage": "400",
+        "speed": "slow",
+        "nacio": "Italy",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "VK 45.02 (P) Ausf. B",
+        "Class": "Heavy",
+        "damage": "360",
+        "speed": "slow",
+        "nacio": "Germany",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "LTTB",
+        "Class": "Light",
+        "damage": "180",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Manticore",
+        "Class": "Light",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "UK",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "T803",
+        "Class": "Heavy",
+        "damage": "410",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "11",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "WZ-113G FT",
+        "Class": "At-spg",
+        "damage": "750",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Ferdinand FL",
+        "Class": "At-spg",
+        "damage": "490",
+        "speed": "slow",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "K-91-PT",
+        "Class": "At-spg",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Turtle Mk. I",
+        "Class": "At-spg",
+        "damage": "330",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Maus",
+        "Class": "Heavy",
+        "damage": "490",
+        "speed": "slow",
+        "nacio": "Germany",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "M46 Patton KR",
+        "Class": "Medium",
+        "damage": "240",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "T28",
+        "Class": "At-spg",
+        "damage": "360",
+        "speed": "slow",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Lorraine 50 t",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "T54E1",
+        "Class": "Heavy",
+        "damage": "280",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "BZ-166",
+        "Class": "Heavy",
+        "damage": "420",
+        "speed": "slow",
+        "nacio": "China",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Panzer 58 FL",
+        "Class": "Medium",
+        "damage": "300",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Jagdtiger",
+        "Class": "At-spg",
+        "damage": "490",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "T30 FL",
+        "Class": "At-spg",
+        "damage": "750",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "FV207",
+        "Class": "Spg",
+        "damage": "550",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Object 140 CL",
+        "Class": "Medium",
         "damage": "320",
         "speed": "fast",
         "nacio": "USSR",
         "lvl": "10",
-        "type": "Tech-Tree",
-        "gun": "cicle",
-        "_comment": "All good"
+        "type": "Premium"
+    },
+    {
+        "name": "WZ-111 model 6",
+        "Class": "Heavy",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "ISU-152K",
+        "Class": "At-spg",
+        "damage": "750",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Strv 107-12",
+        "Class": "At-spg",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "Sweden",
+        "lvl": "11",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "leKpz Borkenkäfer",
+        "Class": "Light",
+        "damage": "330",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "11",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "BZT-70",
+        "Class": "Heavy",
+        "damage": "850",
+        "speed": "slow",
+        "nacio": "China",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "Bat.-Châtillon 155 58",
+        "Class": "Spg",
+        "damage": "680",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "DZT-159",
+        "Class": "Medium",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "T26E5 Patriot",
+        "Class": "Heavy",
+        "damage": "240",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "FV4004 Conway",
+        "Class": "At-spg",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "UK",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "WZ-114",
+        "Class": "Heavy",
+        "damage": "530",
+        "speed": "slow",
+        "nacio": "China",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "HWK 30",
+        "Class": "Light",
+        "damage": "240",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "T-54 FL",
+        "Class": "Medium",
+        "damage": "320",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "AMX Canon d'assaut 105",
+        "Class": "At-spg",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "WZ-113-II",
+        "Class": "Heavy",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "T-62A",
+        "Class": "Medium",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Tiger II FL",
+        "Class": "Heavy",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "M-IV-Y",
+        "Class": "Heavy",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Gryphon",
+        "Class": "Heavy",
+        "damage": "420",
+        "speed": "medium",
+        "nacio": "UK",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "WZ-111 model 1-4 FL",
+        "Class": "Heavy",
+        "damage": "490",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Chrysler K",
+        "Class": "Heavy",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Rinoceronte",
+        "Class": "Heavy",
+        "damage": "490",
+        "speed": "medium",
+        "nacio": "Italy",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Kpz. Erich Konzept I",
+        "Class": "Medium",
+        "damage": "400",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Brennos",
+        "Class": "Heavy",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "ISU-130",
+        "Class": "At-spg",
+        "damage": "490",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "AMX M4 mle. 49",
+        "Class": "Heavy",
+        "damage": "300",
+        "speed": "medium",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Super Conqueror",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "AMX 50 Foch (155)",
+        "Class": "At-spg",
+        "damage": "750",
+        "speed": "medium",
+        "nacio": "France",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "Chieftain Mk. 6",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "UK",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "Object 140",
+        "Class": "Medium",
+        "damage": "340",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "113 Beijing Opera",
+        "Class": "Heavy",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "50TP prototyp",
+        "Class": "Heavy",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "Poland",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Lätt Stridsfordon 120",
+        "Class": "At-spg",
+        "damage": "420",
+        "speed": "medium",
+        "nacio": "Sweden",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Hurricane",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "Poland",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "SDT-58 Vlkodav",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "Czech",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "T 55A",
+        "Class": "Medium",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Jagdpanzer E 100",
+        "Class": "At-spg",
+        "damage": "1050",
+        "speed": "slow",
+        "nacio": "Germany",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "TL-1 LPC",
+        "Class": "Medium",
+        "damage": "280",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Primo Victoria",
+        "Class": "Medium",
+        "damage": "230",
+        "speed": "medium",
+        "nacio": "Sweden",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "T-44 FL",
+        "Class": "Medium",
+        "damage": "250",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "121B",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "China",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "Strv 81",
+        "Class": "Medium",
+        "damage": "230",
+        "speed": "medium",
+        "nacio": "Sweden",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "SZDV Vz. 50",
+        "Class": "At-spg",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "Czech",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "CS-52 C",
+        "Class": "Medium",
+        "damage": "300",
+        "speed": "fast",
+        "nacio": "Poland",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Kanonenjagdpanzer",
+        "Class": "At-spg",
+        "damage": "240",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "T-54 first prototype FL",
+        "Class": "Medium",
+        "damage": "250",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "T32 FL",
+        "Class": "Heavy",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Char Murat",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Vz. 55 Gothic Warrior",
+        "Class": "Heavy",
+        "damage": "490",
+        "speed": "medium",
+        "nacio": "Czech",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "Lion",
+        "Class": "Medium",
+        "damage": "420",
+        "speed": "fast",
+        "nacio": "Italy",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "SU-130PM",
+        "Class": "At-spg",
+        "damage": "520",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "112",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "TNH T Vz. 51",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "Czech",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "UDES 03 Alt 3",
+        "Class": "Medium",
+        "damage": "360",
+        "speed": "fast",
+        "nacio": "Sweden",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "T-22 medium",
+        "Class": "Medium",
+        "damage": "320",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "Strv 103-0",
+        "Class": "At-spg",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "Sweden",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Object 265T",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "AMX M4 mle. 54",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "France",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Vz. 58 Medvěd",
+        "Class": "Heavy",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "Czech",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "WT auf E 100 Phönix",
+        "Class": "At-spg",
+        "damage": "560",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "Type 59",
+        "Class": "Medium",
+        "damage": "250",
+        "speed": "fast",
+        "nacio": "China",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Strv 103-0 FL",
+        "Class": "At-spg",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "Sweden",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Kirovets-1",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Caliban",
+        "Class": "Heavy",
+        "damage": "850",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "UDES 15/16",
+        "Class": "Medium",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "Sweden",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "leKpz M 41 90 mm",
+        "Class": "Light",
+        "damage": "240",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Object 752",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Concept No. 5",
+        "Class": "Medium",
+        "damage": "460",
+        "speed": "fast",
+        "nacio": "UK",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Type 5 Heavy",
+        "Class": "Heavy",
+        "damage": "700",
+        "speed": "slow",
+        "nacio": "Japan",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "CS-67 Szakal",
+        "Class": "Medium",
+        "damage": "420",
+        "speed": "fast",
+        "nacio": "Poland",
+        "lvl": "11",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "FV227 Conceiver",
+        "Class": "Heavy",
+        "damage": "230",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Stridsyxa",
+        "Class": "Medium",
+        "damage": "350",
+        "speed": "medium",
+        "nacio": "Sweden",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Fantôme",
+        "Class": "Medium",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "France",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Object 430",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Kanonenjagdpanzer 105",
+        "Class": "At-spg",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "M47 Iron Arnie",
+        "Class": "Medium",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Tortoise",
+        "Class": "At-spg",
+        "damage": "280",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Ferdinand",
+        "Class": "At-spg",
+        "damage": "280",
+        "speed": "slow",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Panhard EBR 105",
+        "Class": "Light",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Chi-Se",
+        "Class": "Heavy",
+        "damage": "330",
+        "speed": "medium",
+        "nacio": "Japan",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Prototipo Standard B",
+        "Class": "Medium",
+        "damage": "240",
+        "speed": "fast",
+        "nacio": "Italy",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "O-Ho",
+        "Class": "Heavy",
+        "damage": "370",
+        "speed": "slow",
+        "nacio": "Japan",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Object 274a",
+        "Class": "Medium",
+        "damage": "320",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Object 780",
+        "Class": "Heavy",
+        "damage": "530",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "AMBT",
+        "Class": "Medium",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Leichter Kpz. 70 (K)",
+        "Class": "Light",
+        "damage": "240",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "T42",
+        "Class": "Medium",
+        "damage": "280",
+        "speed": "fast",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Object 283",
+        "Class": "Medium",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Black Rock",
+        "Class": "Heavy",
+        "damage": "420",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "11",
+        "type": "Premium"
+    },
+    {
+        "name": "E 50 FL",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "113",
+        "Class": "Heavy",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Object Kust",
+        "Class": "At-spg",
+        "damage": "550",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "ASTRON Rex 105 mm",
+        "Class": "Medium",
+        "damage": "320",
+        "speed": "fast",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "T-34-2",
+        "Class": "Medium",
+        "damage": "250",
+        "speed": "fast",
+        "nacio": "China",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "IMT",
+        "Class": "Medium",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Jagdpanzer E 90",
+        "Class": "At-spg",
+        "damage": "750",
+        "speed": "slow",
+        "nacio": "Germany",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Centurion Mk. 7/1",
+        "Class": "Medium",
+        "damage": "230",
+        "speed": "medium",
+        "nacio": "UK",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "T34",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "121",
+        "Class": "Medium",
+        "damage": "440",
+        "speed": "fast",
+        "nacio": "China",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Ho-Ri 1",
+        "Class": "At-spg",
+        "damage": "500",
+        "speed": "slow",
+        "nacio": "Japan",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "FV4202",
+        "Class": "Medium",
+        "damage": "230",
+        "speed": "medium",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "K-2",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "slow",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "IS-6",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Jagdtiger Prototype",
+        "Class": "At-spg",
+        "damage": "490",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Caernarvon Action X",
+        "Class": "Heavy",
+        "damage": "230",
+        "speed": "medium",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "T95E2",
+        "Class": "Medium",
+        "damage": "240",
+        "speed": "fast",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "AT-FV230 Breaker",
+        "Class": "At-spg",
+        "damage": "480",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "11",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "VK 75.01 (K)",
+        "Class": "Heavy",
+        "damage": "490",
+        "speed": "slow",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "WZ-111 model 5A",
+        "Class": "Heavy",
+        "damage": "490",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Centurion Mk. 5/1 RAAC",
+        "Class": "Medium",
+        "damage": "230",
+        "speed": "medium",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "56TP",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "Poland",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Vz. 55",
+        "Class": "Heavy",
+        "damage": "490",
+        "speed": "medium",
+        "nacio": "Czech",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Progetto C50 mod. 66",
+        "Class": "Heavy",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "Italy",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Object 432U",
+        "Class": "Medium",
+        "damage": "450",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "11",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "M26 Pershing",
+        "Class": "Medium",
+        "damage": "240",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Šotek",
+        "Class": "At-spg",
+        "damage": "250",
+        "speed": "fast",
+        "nacio": "Czech",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Carro da Combattimento 45 t",
+        "Class": "Medium",
+        "damage": "400",
+        "speed": "fast",
+        "nacio": "Italy",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "Nergal",
+        "Class": "Heavy",
+        "damage": "350",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "KV-5",
+        "Class": "Heavy",
+        "damage": "300",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Miel",
+        "Class": "Medium",
+        "damage": "360",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "GSOR 3301 AVR FS",
+        "Class": "Light",
+        "damage": "230",
+        "speed": "fast",
+        "nacio": "UK",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Object 705A",
+        "Class": "Heavy",
+        "damage": "650",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "T95E6",
+        "Class": "Medium",
+        "damage": "400",
+        "speed": "fast",
+        "nacio": "USA",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "WZ-111G FT",
+        "Class": "At-spg",
+        "damage": "560",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "T26E5",
+        "Class": "Heavy",
+        "damage": "240",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Object 277",
+        "Class": "Heavy",
+        "damage": "490",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Monkey King",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "China",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "BZ-68",
+        "Class": "Heavy",
+        "damage": "530",
+        "speed": "slow",
+        "nacio": "China",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "T-44",
+        "Class": "Medium",
+        "damage": "220",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Gonsalo",
+        "Class": "Heavy",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "T92",
+        "Class": "Light",
+        "damage": "150",
+        "speed": "fast",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "BZ-74-1",
+        "Class": "Heavy",
+        "damage": "420",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "ST-66",
+        "Class": "Medium",
+        "damage": "300",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Object 168 German",
+        "Class": "Medium",
+        "damage": "340",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "BZ-58-2",
+        "Class": "Heavy",
+        "damage": "520",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Char Futur 4",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "EMIL 1951",
+        "Class": "Heavy",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "Sweden",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Object 268",
+        "Class": "At-spg",
+        "damage": "750",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "H3",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "leKpz M 41 90 mm GF",
+        "Class": "Light",
+        "damage": "240",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "G.W. Tiger",
+        "Class": "Spg",
+        "damage": "750",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Spähpanzer Ru 251",
+        "Class": "Light",
+        "damage": "240",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "BZ-176",
+        "Class": "Heavy",
+        "damage": "650",
+        "speed": "slow",
+        "nacio": "China",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "VCS 6x6 TS 90",
+        "Class": "Light",
+        "damage": "250",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "T49",
+        "Class": "Light",
+        "damage": "270",
+        "speed": "fast",
+        "nacio": "USA",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "ELC EVEN 90",
+        "Class": "Light",
+        "damage": "220",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Divine Valor",
+        "Class": "Heavy",
+        "damage": "650",
+        "speed": "slow",
+        "nacio": "China",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "VK 72.01 (K)",
+        "Class": "Heavy",
+        "damage": "750",
+        "speed": "slow",
+        "nacio": "Germany",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "T-832",
+        "Class": "Heavy",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "WZ-132",
+        "Class": "Light",
+        "damage": "200",
+        "speed": "fast",
+        "nacio": "China",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "GSOR 1010 FB",
+        "Class": "Medium",
+        "damage": "360",
+        "speed": "fast",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Leopard Prototyp A",
+        "Class": "Medium",
+        "damage": "300",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "E 75",
+        "Class": "Heavy",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "FV4005 Stage II",
+        "Class": "At-spg",
+        "damage": "1150",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "STB-1",
+        "Class": "Medium",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "Japan",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Progetto M40 mod. 65",
+        "Class": "Medium",
+        "damage": "360",
+        "speed": "fast",
+        "nacio": "Italy",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Object 260",
+        "Class": "Heavy",
+        "damage": "440",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "Lorraine 40 t",
+        "Class": "Medium",
+        "damage": "300",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Object 259A",
+        "Class": "Heavy",
+        "damage": "420",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "FV226 Contradictious",
+        "Class": "Heavy",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "WZ-111",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "T26E4 SuperPershing FL",
+        "Class": "Medium",
+        "damage": "240",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Progetto CC55 mod. 54",
+        "Class": "Heavy",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "Italy",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "114 SP2",
+        "Class": "At-spg",
+        "damage": "650",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "WZ-111 Qilin",
+        "Class": "Heavy",
+        "damage": "490",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "Jagdtiger FL",
+        "Class": "At-spg",
+        "damage": "560",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "AMX Chasseur de chars",
+        "Class": "Medium",
+        "damage": "240",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "SDP wz 66 Grom",
+        "Class": "At-spg",
+        "damage": "800",
+        "speed": "medium",
+        "nacio": "Poland",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "XM551 Sheridan",
+        "Class": "Light",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "USA",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "60TP Lewandowskiego",
+        "Class": "Heavy",
+        "damage": "750",
+        "speed": "medium",
+        "nacio": "Poland",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Škoda T 56",
+        "Class": "Heavy",
+        "damage": "460",
+        "speed": "medium",
+        "nacio": "Czech",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "M54 Renegade",
+        "Class": "Heavy",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "FV217 Badger",
+        "Class": "At-spg",
+        "damage": "480",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "SMV CC-67",
+        "Class": "At-spg",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "Italy",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "WZ-132 FL",
+        "Class": "Light",
+        "damage": "250",
+        "speed": "fast",
+        "nacio": "China",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "WZ-120-1G FT",
+        "Class": "At-spg",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "ShPTK-TVP 100",
+        "Class": "At-spg",
+        "damage": "250",
+        "speed": "fast",
+        "nacio": "Czech",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Strv S1",
+        "Class": "At-spg",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "Sweden",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "IS-3A",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "M4A1 Revalorisé FL",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "AMX AC mle. 48 FL",
+        "Class": "At-spg",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Ashbringer",
+        "Class": "Heavy",
+        "damage": "750",
+        "speed": "medium",
+        "nacio": "Poland",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "Lorraine 155 mle. 51",
+        "Class": "Spg",
+        "damage": "630",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "AMX 30 1er prototype",
+        "Class": "Medium",
+        "damage": "240",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "CS-53",
+        "Class": "Medium",
+        "damage": "300",
+        "speed": "medium",
+        "nacio": "Poland",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "CS-52 LIS",
+        "Class": "Medium",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "Poland",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "DZT-159 Dragon's Soul",
+        "Class": "Medium",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "T26E5 FL",
+        "Class": "Heavy",
+        "damage": "240",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Char Mle. 75",
+        "Class": "Light",
+        "damage": "200",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Škoda T 27",
+        "Class": "Medium",
+        "damage": "240",
+        "speed": "medium",
+        "nacio": "Czech",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "M48A5 Patton",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Lansen C",
+        "Class": "Medium",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "Sweden",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Toro",
+        "Class": "Heavy",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "Italy",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "SFAC 105",
+        "Class": "At-spg",
+        "damage": "390",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "UDES 03",
+        "Class": "At-spg",
+        "damage": "280",
+        "speed": "fast",
+        "nacio": "Sweden",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "AMX M4 mle. 51",
+        "Class": "Heavy",
+        "damage": "400",
+        "speed": "slow",
+        "nacio": "France",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "GSOR 1008",
+        "Class": "At-spg",
+        "damage": "320",
+        "speed": "fast",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Indien-Panzer",
+        "Class": "Medium",
+        "damage": "240",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "M41 Walker Bulldog FL",
+        "Class": "Light",
+        "damage": "175",
+        "speed": "fast",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "AMX 67 Imbattable",
+        "Class": "Heavy",
+        "damage": "410",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "11",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "E 65 Zwilling",
+        "Class": "Heavy",
+        "damage": "280",
+        "speed": "medium",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "122 TM",
+        "Class": "Medium",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "China",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "CS-53/56 Wojtek",
+        "Class": "Medium",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "Poland",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Strv K",
+        "Class": "Heavy",
+        "damage": "390",
+        "speed": "medium",
+        "nacio": "Sweden",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Object 263",
+        "Class": "At-spg",
+        "damage": "440",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Kampfpanzer 50 t",
+        "Class": "Medium",
+        "damage": "320",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Stone Sentinel",
+        "Class": "Heavy",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "Italy",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "UDES 16",
+        "Class": "Medium",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "Sweden",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Panzer 58",
+        "Class": "Medium",
+        "damage": "300",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "AMX 50 Foch B",
+        "Class": "At-spg",
+        "damage": "400",
+        "speed": "medium",
+        "nacio": "France",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Crusher",
+        "Class": "Heavy",
+        "damage": "350",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "SU-122V",
+        "Class": "At-spg",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "Panhard AML Lynx 6x6",
+        "Class": "Light",
+        "damage": "175",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "8",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Bisonte C45",
+        "Class": "Heavy",
+        "damage": "360",
+        "speed": "medium",
+        "nacio": "Italy",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Forest Spirit",
+        "Class": "At-spg",
+        "damage": "520",
+        "speed": "fast",
+        "nacio": "USSR",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "Controcarro 1 Mk. 2",
+        "Class": "At-spg",
+        "damage": "400",
+        "speed": "slow",
+        "nacio": "Italy",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Object 279 early",
+        "Class": "Heavy",
+        "damage": "440",
+        "speed": "medium",
+        "nacio": "USSR",
+        "lvl": "10",
+        "type": "Premium"
+    },
+    {
+        "name": "M53/M55",
+        "Class": "Spg",
+        "damage": "600",
+        "speed": "fast",
+        "nacio": "USA",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Grille 15",
+        "Class": "At-spg",
+        "damage": "750",
+        "speed": "fast",
+        "nacio": "Germany",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "VK 168.01 Mauerbrecher",
+        "Class": "Heavy",
+        "damage": "440",
+        "speed": "slow",
+        "nacio": "Germany",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "M47 Patton Improved",
+        "Class": "Medium",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "USA",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "FV229 Contender",
+        "Class": "Heavy",
+        "damage": "280",
+        "speed": "slow",
+        "nacio": "UK",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Panhard EBR 90",
+        "Class": "Light",
+        "damage": "240",
+        "speed": "fast",
+        "nacio": "France",
+        "lvl": "9",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "Type 63",
+        "Class": "Heavy",
+        "damage": "320",
+        "speed": "medium",
+        "nacio": "Japan",
+        "lvl": "8",
+        "type": "Premium"
+    },
+    {
+        "name": "M103M",
+        "Class": "Heavy",
+        "damage": "360",
+        "speed": "slow",
+        "nacio": "USA",
+        "lvl": "9",
+        "type": "Premium"
+    },
+    {
+        "name": "T110E3",
+        "Class": "At-spg",
+        "damage": "750",
+        "speed": "slow",
+        "nacio": "USA",
+        "lvl": "10",
+        "type": "Tech-Tree"
+    },
+    {
+        "name": "WZ-120",
+        "Class": "Medium",
+        "damage": "250",
+        "speed": "fast",
+        "nacio": "China",
+        "lvl": "9",
+        "type": "Tech-Tree"
     }
 ]
-
